@@ -2636,3 +2636,506 @@ Image credit: NORESCO]
 **CASE STUDY: North Oak Development, Canada**
 
 The North Oak Development in Oakville, Ontario, includes multiple buildings connected to a ground-source ambient loop system. The system allows for energy recovery from each building to the loop and between buildings.
+
+# Chapter 8: Decarbonization Strategies and Technologies: Domestic Hot-Water Systems
+
+Domestic hot-water (DHW) heating is responsible for 32% of the total energy consumption in multifamily buildings (Houssainy et al. 2022) and can be a significant source of energy consumption in commercial buildings as well. Electrification of DHW systems is another key step in building decarbonization retrofits. Similar to HVAC electrification, retrofitting DHW systems with electric heat sources includes several challenges, including water supply temperatures, electrical capacity, cold air exhaust, and space and ventilation requirements. DHW retrofits should first take advantage of opportunities to reduce heating loads through decreased DHW use and energy recovery before pursuing electrification options. DHW retrofits also may include decisions regarding system configurations, such as centralized or decentralized systems.
+
+The process for decarbonizing existing DHW systems parallels the decarbonization process previously identified in Section 3.4 in Chapter 3, particularly with respect to evaluating the existing system, reducing loads as much as feasible, and rightsizing replacement systems. The content presented in this chapter provides additional contexts specific to DHW systems.
+
+## 8.1 Evaluating Existing Conditions
+
+It is important to understand the existing DHW configuration and conditions to identify constraints and opportunities for electrifying DHW systems. Unlike new systems, DHW systems in existing buildings often have unique configurations that limit retrofit options. Conversely, the retrofit of DHW heating often provides an opportunity to correct existing operational challenges.
+
+A water audit, modified to focus on DHW systems, is a great first step to better understand the existing DHW systems. This section includes considerations that should be addressed as part of the initial system assessment.
+
+### 8.1.1 System Configuration and Condition
+
+Completing a survey of the existing DHW system is a first step to better understanding the system and potential constraints and opportunities that will drive the design process.
+
+The configuration of the existing DHW system will drive design considerations for the retrofit. The first step is determining which fuel source the existing system uses. Possible DHW fuel sources include:
+
+- Natural gas
+- Electricity
+- Steam
+- District energy
+
+The next key step is determining whether the existing configuration has centralized DHW generation or distributed DHW generation. Centralized versus distributed systems will influence the piping configuration, space to accommodate new DHW heating sources, and possibly location of electrical infrastructure. As discussed in Section 4.1 in Chapter 4, these can represent constraints for retrofit design and equipment capacity. During the evaluation, confirm space availability and access routes for moving equipment. Often, nearby storage space can be utilized, with approval of the owner and operations staff.
+
+In multifamily and multi-story commercial buildings, recirculating systems are common, making it important to understand the configuration of temperature maintenance and operating pressures for the existing system. Most commonly available equipment is only rated for 150 psig (1034 kPa), which may limit equipment placement options for high-rise applications. Common considerations for these systems:
+
+- How are recirculation systems controlled for temperature maintenance?
+- Do current temperature set points comply with code and hygiene requirements?
+- Does the existing recirculation system properly consider different pressure zones within the building?
+
+Some more basic information to gather relates to the condition of the existing DHW-generating equipment. Confirm the age of the equipment and determine whether capital plans include replacing DHW equipment within the project window. If equipment is planned for replacement, assess whether the equipment and systems are in sufficient condition to remain in operation through project phasing when planned for replacement. Existing systems also may serve as backup or peaking systems, so determining whether they are in suitable condition to remain in operation is important for retrofit design.
+
+Similarly, confirm the materials and the condition of existing distribution systems. This includes presence of known or suspected leaks, insulation of piping to minimize heat loss, and any planned upgrades or replacements. Understanding the age and condition of equipment can identify opportunities to leverage existing budgets as part of decarbonization projects. For example, for low-water-use buildings such as office towers, it may be more advantageous to convert a central system to distributed systems rather than spend capital on replacing existing risers.
+
+A final step in surveying the existing system is documenting the fixture types, usage types, and fixture flow rates. In multifamily and office buildings, these are often typical domestic fixtures such as faucets and showers, and laundry facilities for multifamily. In other commercial buildings, process loads may represent significant hot-water end uses and data should be collected to determine the operating load profiles. Understanding usage types and existing flow rates is useful for determining potential low-flow retrofit potential to reduce DHW system loads.
+
+### 8.1.2 DHW Load Profile
+
+Metering is the best source of data for developing DHW load profiles. It is critical that data collection be performed after DHW load-reduction measures, such as low-flow fixture retrofits, are implemented to accurately reflect the new peak DHW load. Sub-metering of DHW with a temporary or permanent flow meter is recommended to gather this information. Ideally, three months of metered data should be obtained (but no less than one month). Care should be taken in determining the most suitable location for water meter placement. Often, the best location is at the domestic cold-water makeup to DHW systems, upstream of recirculation systems to avoid false readings from the DHW recirculation system. Metering on distributed DHW systems can be difficult where many smaller systems are installed. If metering is not feasible for these systems, it may be useful to meter a few representative systems and use corresponding domestic cold-water metering along with modeling fixture use to estimate DHW use profiles.
+
+Metering results can be compared against DHW energy use obtained from the DHW component of energy bills, typically the weather-independent component of normalized gas consumption when HVAC reheat systems are not operational (typically July or August).
+
+## 8.2 Load Reduction and Rightsizing
+
+A shortcoming of traditional DHW sizing methodologies is that they are based on outdated assumptions on fixture flow rates and usage patterns, which commonly results in oversizing in new construction projects. Conversely, existing building retrofits provide an opportunity to rightsize replacement systems based on actual peak demands and daily load profiles. Efforts are being made by ASHRAE and other agencies, including the International Association of Plumbing and Mechanical Officials (IAPMO) and the American Society of Plumbing Engineers (ASPE), to develop sizing methodology and typical usage data that better reflect actual use patterns in different building types. This methodology is reflected in the Uniform Plumbing Code (UPC) Appendix M—Peak Water Demand Calculator. Existing buildings have the benefit of actual usage history; this can be leveraged to rightsize replacement systems to better meet the system usage patterns without unnecessary oversizing.
+
+[Figure: IAPMO Water Demand Calculator and Peak Water Demand Study
+Type: Image
+
+Description:
+A sidebar callout describing the IAPMO Water Demand Calculator tool and the associated Peak Water Demand Study conducted by IAPMO and ASPE. A screenshot of the Water Demand Calculator (WDC v2.0) spreadsheet tool is shown, displaying a tabular interface with columns for fixture types, quantities, and peak demand calculations.
+
+Key Elements:
+- Tool name → Water Demand Calculator (WDC v2.0)
+- Developers → IAPMO and ASPE
+- Purpose → Performed a study in response to the increased use of low-flow plumbing fixtures and reduced water demand in buildings. Reviewed data for single and multifamily buildings and developed a methodology for determining peak water demand. This methodology serves as the basis for the Water Demand Calculator.
+- Calculator reference → IAPMO (2023)
+- Study reference → Buchberger et al. (2017)]
+
+Oversizing electrified DHW systems, particularly HPWHs, results not only in performance issues, such as short cycling and reduced equipment life, but also needlessly increases project costs. Because of these factors, trend data collection of DHW use profiles per Section 8.1.2 is critical to inform sizing decisions. The DHW peak and recovery periods are key factors in determining the design of a HPWH system. Data collection for DHW sizing and design should take place after implementing DHW high-efficiency fixtures and heat recovery measures.
+
+As part of rightsizing, load-reduction strategies should always be considered as part of a DHW electrification project. Load-reduction strategies are typically low-cost and high-impact interventions that can reduce DHW electrification costs, often avoiding unnecessary electrical service upgrades.
+
+DHW thermal loads comprise three main areas of thermal energy use (or loss):
+
+- Hot-water use at fixtures (useful energy)
+- Recirculation heat losses due to distribution systems and piping heat loss (parasitic loss)
+- Standby losses due to heat loss associated with storing hot water (parasitic loss)
+
+[Figure: Achieving Zero Energy: Advanced Energy Design Guide for Multifamily Buildings
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the ASHRAE guide titled *Achieving Zero Energy: Advanced Energy Design Guide for Multifamily Buildings* (ASHRAE 2022a), co-published by ASHRAE, The American Institute of Architects, Illuminating Engineering Society, U.S. Green Building Council, and U.S. Department of Energy.
+
+Key Elements:
+- Document title → "Achieving Zero Energy: Advanced Energy Design Guide for Multifamily Buildings"
+- Publishers → ASHRAE, AIA, IES, USGBC, U.S. Department of Energy (ASHRAE 2022a)
+- Purpose → Provides direction on developing zero-energy multifamily buildings. While focused on new construction, it offers useful information for designers evaluating HPWH retrofits.
+- Scope → Covers a breadth of systems, including domestic water heating. Offers strategies for rightsizing and minimizing losses that are still relevant for retrofit applications.]
+
+Understanding the relative proportions of total DHW energy consumption among these three categories is useful for deciding where to focus load-reduction strategies, determining if a system distribution configuration should be modified, and sizing replacement system components such as swing tanks.
+
+- **Estimating Hot-Water Use for Thermal Energy.** Thermal energy requirements associated with hot-water use can be estimated readily with DHW usage profiles.
+- **Estimating Recirculation Losses.** BAS data can be useful in estimating thermal energy losses associated with recirculation systems. With trended temperature data, losses can be estimated from known recirculation flow rates and pump control strategy/schedule. For systems with BAS information, losses can be estimated based on pipe length and insulation characteristics.
+- **Estimating Standby Losses.** Standby losses for well-insulated DHW storage tend to be low but can be estimated either through on-site testing using tank temperature trending or through calculations based on the tank dimensions and insulation values.
+
+### 8.2.1 Low-Flow Fixture Retrofit
+
+DHW retrofits in existing buildings should start with reducing the load through efficiency and technological improvements before considering heat pump water heaters (HPWH) or electric resistance DHW systems. Retrofit domestic fixtures with high-efficiency (low-flow) nozzles, aerators, and showerheads. User education and buy-in is very important to the success of a low-flow fixture conversion, particularly in facilities with large shower loads, such as recreation centers. It may be necessary to implement a pilot project first to determine the scale of flow rate reduction that occupants are willing to tolerate. Educating users about the reasons behind flow rate reductions often assists with buy-in for the project.
+
+Low-flow fixture retrofits should be completed prior to electrification of the DHW system. This ensures that occupants are used to the flow reductions and any unacceptable operations are remedied before proceeding with DHW electrification. This also allows time to meter actual DHW use to generate load profiles to inform sizing of new DHW generation systems.
+
+**CASE STUDY: Kitsilano Pool, Canada**
+
+The Kitsilano Pool reduced its DHW load by 40% by implementing low-flow showerheads prior to completing a central DHW retrofit. The central DHW system was retrofitted with a CO2 ASHP and two 250-gallon tanks to meet the full DHW load.
+
+How water wait times must be considered as part of low-flow fixture retrofits. In some cases, piping reconfigurations may be required to avoid excessive wait times at fixtures. Again, completing the low-flow conversion first is useful in identifying areas of concern that can be modified as part of the electrification project. For high-rise systems with multiple pressure zones, reliable pressure control also must be considered with flow-rate reductions. Significant flow reductions can cause issues with (now) oversized pressure-regulating valves (PRVs), causing noticeable changes in pressure and wire drawing in the valves.
+
+### 8.2.2 Distribution and Storage Losses
+
+Distribution losses, including losses from DHW heating equipment and recirculation system losses, can account for up to two-thirds of heating needs for multiuse residential buildings. Uninsulated domestic hot-water piping, particularly with recirculation systems, can be a major source of load. Based on a visual inspection of insulation deficiencies, provide piping and storage tank insulation in accordance with ASHRAE/IES Standard 90.1 or local energy codes. Additionally, recirculation systems often run continuously, increasing distribution losses. Consider implementing control strategies to reduce distribution losses (see Section 8.4.1). Strategies for minimizing distribution heat loss in DHW systems are presented in *Domestic Hot Water Distribution Heat Loss* (Green and Heller 2022).
+
+### 8.2.3 Passive Heat Recovery (Drain-Line Heat Recovery)
+
+Passive forms of DHW heat recovery can contribute to reducing DHW loads. Drain-water heat recovery (DWHR) passively recovers heat from wastewater sources such as shower drains or laundry water. DWHR systems capture heat from the outgoing hot drain water and transfer it to the incoming cold water, preheating it before it enters the DHW water heaters and/or the entering cold water line to the shower/fixture. Both horizontal and vertical DWHR options are available. Implementation of this type of heat recovery is highly dependent on the system configuration and is typically more cost-effective when implemented in areas of high DHW use.
+
+[Figure: Drain-Water Heat Recovery Diagram
+Type: Descriptive Diagram
+
+Description:
+A schematic diagram (Figure 8.1) showing the components and flow path of a drain-water heat recovery (DWHR) system. The diagram illustrates a vertical cross-section showing a faucet at top connected via a heat exchanger to a hot water tank below. Flow directions for hot water supply, cold water makeup, and drain water are all labelled with directional arrows. Image credit: DOE.
+
+Key Elements:
+- Faucet → top of diagram; hot water delivery point and drain water source
+- Hot water (arrow going up left side) → supply from hot water tank to faucet
+- Preheated cold water to plumbing fixtures and to water heater (arrow going left, mid-diagram) → cold water is preheated by the heat exchanger before reaching fixtures and water heater inlet
+- Heat Exchanger → coiled pipe wrapped around the drain pipe; recovers heat from outgoing drain water and transfers it to incoming cold water
+- Cold water in (arrow going right, lower mid-diagram) → incoming cold domestic water enters heat exchanger
+- Drain water (arrow going right at bottom) → outgoing warm wastewater passes through heat exchanger giving up heat
+- Hot water tank → cylindrical storage tank at bottom; receives preheated cold water from heat exchanger]
+
+It is important to consider the DHW heating source when pairing it with DWHR. For example, single-pass HPWH systems require a cold inlet water temperature to operate efficiently. Preheating incoming cold water in this scenario is not desirable. In contrast, multi-pass HPWHs may be able to take advantage of this type of heat recovery to reduce the number of cycles required to achieve the DHW set point.
+
+### 8.2.4 Rightsizing
+
+Rightsizing for DHW systems for existing buildings includes understanding the existing DHW usage profiles, accounting for load-reduction implementation, and understanding anticipated future use changes of areas within the building. The sizing methodology use for electrified DHW systems is dependent on the system type and generally can be classified into one of three categories:
+
+- **Storage-Based Systems.** Central HPWHs or electric resistance DHW tanks
+- **Distributed Systems.** Distributed (and often packaged) HPWHs and electric DHW tanks
+- **Point-of-Use and Instantaneous Systems.** Under-counter and at-fixture point-of-use electric heaters
+
+These three system categories can be represented visually on a system storage/capacity curve—a plot of useful DHW storage vs. DHW-generating capacity—as shown in Figure 8.2. Any combination of useful storage and capacity that falls above the system curve is adequately sized to meet the system demand. The left side of the curve represents instantaneous and point-of-use systems that are sized to meet the system's instantaneous DHW flow requirements. The right side of the curve represents low-heating, capacity-high storage systems that leverage high volumes of storage and periods of low DHW use to recover and store DHW for periods of peak use. Understanding the trade-off between heating capacity and storage volume is important when accommodating electrified DHW systems in existing buildings. Often, providing high storage can alleviate the need for electrical service upgrades. High system volume also accommodates load shedding and demand reduction strategies with minimal impact on DHW delivery to fixtures. These concepts are explored further in Section 8.6.
+
+[Figure: DHW System Storage/Capacity Curve for Sample Building
+Type: Chart
+
+Description:
+A line chart (Figure 8.2) showing the trade-off between Primary Heating Capacity (kBTU/hr) on the y-axis and Primary Tank Volume (Gallons) at Storage Temperature on the x-axis for a sample building. The curve slopes downward from upper-left to lower-right, indicating that as tank storage volume increases, the required heating capacity decreases. The upper-left endpoint is labelled "Low to no storage, highest input" and the lower-right endpoint is labelled "High storage, lowest input." Image credit: Ecosizer Tool.
+
+Data Representation:
+- Y-axis: Primary Heating Capacity (kBTU/hr), range approximately 200 to 400
+- X-axis: Primary Tank Volume (Gallons) at Storage Temperature, range approximately 600 to 2200
+- Curve: Single downward-sloping green curve from ~(600, 400) to ~(2200, 200)
+- Upper-left label: "Low to no storage, highest input" (with blue circle marker at approximately 600 gallons / 400 kBTU/hr)
+- Lower-right label: "High storage, lowest input" (with blue circle marker at approximately 2200 gallons / 200 kBTU/hr)
+
+- Metric: Trade-off between DHW heating capacity and storage volume
+- Chart Type: Line
+- Units: kBTU/hr (y-axis); Gallons (x-axis)
+
+Chart Generation Hint:
+- X-axis: Primary Tank Volume (Gallons) at Storage Temperature — range 600 to 2200, gridlines at 200-gallon intervals
+- Y-axis: Primary Heating Capacity (kBTU/hr) — range 200 to 400, gridlines at 50 kBTU/hr intervals
+- Key annotations: "Low to no storage, highest input" at upper-left; "High storage, lowest input" at lower-right
+
+Structured Data (Machine Readable):
+{
+  "chart_type": "line",
+  "metric": "DHW system heating capacity vs. storage volume trade-off",
+  "units": {"x": "Gallons", "y": "kBTU/hr"},
+  "data": {
+    "x_axis": "Primary Tank Volume (Gallons) at Storage Temperature",
+    "y_axis": "Primary Heating Capacity (kBTU/hr)",
+    "x_range": "600 to 2200",
+    "y_range": "200 to 400",
+    "endpoints": {
+      "low_storage_high_input": {"x": 600, "y": 400},
+      "high_storage_low_input": {"x": 2200, "y": 200}
+    }
+  }
+}
+
+Image credit: Ecosizer Tool]
+
+### 8.2.5 Sizing Methodology for Storage-Based Systems
+
+Storage-based systems utilize a combination of stored DHW and heating capacity to meet DHW demands. Consequently, there is a system trade-off between storage volume and heating capacity that should be considered. Larger storage volumes require space and add weight but allow for small heat-generating equipment, reducing electrical peak load and equipment footprint and costs. When grid interactivity is considered, even larger volumes are often viable to allow further flexibility in heating operation to align with periods of reduced grid emissions or demand charges.
+
+These sizing considerations are true regardless of the heating source but become particularly important for central HPWHs due to their increased cost per unit capacity compared to alternative forms of heating. Storage is typically less expensive than heat pumps. Sizing systems using larger storage can save first costs on implementation and improve heat pump longevity by reducing short cycling. The appropriate balance between storage volume and heating capacity is specific to each project and is a function of:
+
+- DHW use profile (peaks, variability, specific end uses)
+- Electrical capacity limitations
+- Grid emission profile
+- Available space for DHW equipment
+
+[Figure: Ecosizer Tool
+Type: Image
+
+Description:
+A sidebar callout describing the Ecosizer Tool, a free online sizing tool for central water heating systems. The callout shows the Ecosizer tool logo and a brief description of its capabilities.
+
+Key Elements:
+- Tool name → Ecosizer
+- Developer → Ecosizer (n.d.)
+- Platform → Free online tool, publicly available
+- Purpose → Available to size central water heating systems for commercial and multifamily buildings that rely on HPWHs.
+- Capabilities → Allows the user to input climate data, DHW demand data, and HPWH operating temperatures to help determine an appropriate size for the HPWH. Has default load profiles tailored for multi-unit residential buildings, with the flexibility to adjust the DHW load profiles to match project-specific conditions.]
+
+Sizing storage-based systems is best accomplished utilizing design daily load profiles and the cumulative volume vs. time interval method outlined in the 2023 *ASHRAE Handbook—HVAC Applications* (Chapter 51) or software such as Ecosizer. The 2023 edition of the *ASHRAE Handbook—HVAC Applications* provides load shapes for a variety of occupancy types, which can be adjusted (normalized) in relation to the actual peak demand (see Chapter 51). Nonetheless, the most reliable data for sizing comes from specific demand profiles for the site, which are obtained through metering of actual domestic hot-water use profiles. Additionally, several HPWH manufacturers provide their own tools for sizing, tailored to their specific products. It is important that consultants be familiar with the sizing processes used by these tools before using them.
+
+### 8.2.6 Sizing Methodology for Point-of-Use Systems
+
+Point-of-use systems have little to no volume to assist with meeting DHW loads. The heating capacity must be sized to meet the anticipated peak DHW load at the associated fixtures. Heating capacity should be based on the expected peak flow rate and the temperature differential between the desired usage temperature at the fixture and the incoming cold water temperature.
+
+### 8.2.7 Sizing Considerations for Grid-Demand Response
+
+For emissions reduction and/or demand cost reduction, grid-demand response should be considered when deciding on and sizing DHW systems. Storage-based systems provide flexibility to accommodate demand response with minimal impact on the end user. Conversely, instantaneous and point-of-use systems have limited flexibility when users need hot water.
+
+In the context of overall building grid-demand response, DHW loads are often low-hanging fruit and the simplest load to shed due to the fairly predictable and non-weather-dependent load they represent within a building. See *Grid-Interactive Buildings for Decarbonization: Design and Operation Resource Guide* for details on grid-interactive design for DHW systems.
+
+## 8.3 Distributed vs. Central Systems
+
+DHW systems may be centralized, with a single DHW system serving the entire building, or may be distributed, with individual hot-water heaters serving each tenant or floor. The configuration of the existing system can be a driving factor in the design of retrofit systems. There are a number of factors to consider when deciding to modify the existing distribution system configuration. Table 8.1 compares distributed and central systems and analyzes which system type better accommodates considerations for different system factors.
+
+[Table: Table 8.1 Accommodating Design Considerations: Distributed vs. Central Systems
+Type: Table
+
+Data:
+| Factor | Distributed System | Central System |
+|---|---|---|
+| High DHW consumption | Low | High |
+| Low DHW consumption | High | Low |
+| Variable DHW consumption | High | Low |
+| Configuration of existing DHW system | Neutral | Neutral |
+| Age and condition of existing DHW distribution infrastructure | High | Low |
+| Space availability for DHW equipment | Low | High |
+| Retrofit phasing | High | Low |
+| System losses | High | Low |
+| Occupant sensitivity to noise levels | Low | High |
+| Access to ventilation for HPWHs | Low | High |
+| Desired metering configuration (owner vs. tenant) | High | Low |
+| Ability to leverage DHW storage for demand/emissions management | Low | High |
+
+Notes: "High" indicates the system type better accommodates that factor; "Low" indicates it is less suited; "Neutral" indicates no significant difference between system types.]
+
+### 8.3.1 Distributed DHW Systems
+
+Distributed DHW systems involve multiple smaller water heaters, each serving individual dwelling units or commercial spaces. These heaters are typically located closer to the points of use, such as within or near each dwelling unit or space. These are often found in garden-style multifamily buildings and some commercial spaces with fluctuating hot water needs among tenants. Some distributed systems also include point-of-use water heaters, which can serve specific loads within a building that otherwise has relatively low DHW demand, such as commercial office restroom sinks and breakrooms. In an electrified building, these are usually electric resistance point-of-use water heaters with high peak electrical loads. Point-of-use water heaters can also be set up as instantaneous heat exchangers using the building heating hot-water system (or steam) as the heat source. Further discussion of this approach is provided in Section 8.8.
+
+Distributed DHW systems reduce the amount of circulation piping with water heaters located at each unit, which in turn reduces the circulation heat losses from the DHW system. This can represent a significant amount of heat loss, so distributed systems effectively reduce the DHW heat load by eliminating losses. Distributed systems also allow for individual metering of tenants' DHW use. These systems can also be implemented in a phased approach, retrofitting a set number of units at a time or based on triggers in the decarbonization plan, such as tenant turnover.
+
+Distributed HPWH systems also bring the issues of noise levels and cold exhaust air closer to tenant spaces. The space and ventilation requirements for HPWHs may also be more challenging to accommodate in the in-unit spaces available for the HPWH unit. Adding noise insulation to an already constrained space is challenging and will compete with needs for adequate space and ventilation of the HPWH.
+
+If a distributed DHW system includes a phased retrofit, where different units have different DHW heating systems, it also presents more complex maintenance for the overall system.
+
+**CASE STUDY: Vera Cruz Village, California**
+
+The case study for Vera Cruz Village in California presents a retrofit of a distributed DHW system with individual HPWHs at each apartment unit.
+
+### 8.3.2 Central DHW Systems
+
+Central DHW systems involve a single, larger water heating system that serves multiple dwelling units or commercial spaces within a building. Central DHW systems are suitable for larger facilities with a high demand for hot water, such as hotels, hospitals, and laboratories. For buildings that have a central source for domestic hot water with a circulation loop, pumping energy is often perpetually consumed (i.e., independent of occupancy patterns), and the associated heat losses through the circulation loop are a constant within the system. Insulating DHW circulation piping will help reduce heat losses, but these losses must still be accounted for in the design of the centralized DHW system. In addition to insulation, the control strategies covered in Section 8.4.1 should be considered for all central DHW systems.
+
+Central systems consolidate equipment and can make maintenance easier by reducing the quantity of equipment to maintain. At the same time, some HPWH central systems incorporate multiple tanks, etc., introducing new equipment and configurations that may be unfamiliar to maintenance staff.
+
+Central systems require a larger footprint for the heat pump and storage tanks. These systems also may incorporate additional tanks to buffer water temperatures, as discussed in Section 8.4.3, which can add complexity and increase the footprint. Central systems are not practical to implement as phased retrofits because adding units requires connecting them into the larger loop.
+
+**CASE STUDY: The Heritage, New York**
+
+The case study for the Heritage in New York presents a retrofit of a centralized DHW system from gas boilers to AWHPs, reducing the DHW energy consumption for the 1660 Madison Building.
+
+### 8.3.3 Application Considerations
+
+DHW electrification retrofits often provide an opportunity to enhance the current distribution configuration or pivot and completely change the DHW distribution system to better serve the needs of the building. The decision to modify the existing distribution system includes a large number of factors, identified at the beginning of this section. The following are some specific considerations that may drive the decision-making process.
+
+Analyzing the actual DHW load profile can be useful in determining whether making a change to the distribution systems is warranted. Systems with low peak or frequency of use tend to favor distributed systems to reduce standby and distribution losses. On the other hand, systems that experience high peaks tend to benefit from storage-based systems because DHW storage can lower HPWH capacity.
+
+Understanding the condition of the existing DHW piping systems can identify opportunities to make cost-effective changes to the current configuration. For example, capital maintenance budgets set aside for DHW and recirculation riser replacement in an office tower may be better spent by converting a central system to a distributed system, eliminating the need for expensive riser replacement and effectively eliminating distribution losses.
+
+When considering a change to the distribution scheme, the existing electrical capacity must be understood very early in the process to avoid later issues in design. For example, the decision to convert from a central system to point-of-use water heaters may trigger widespread panel or feeder upgrades that can make an otherwise cost-effective retrofit option impractical.
+
+Unique end uses, such as process loads that require high-use and/or high-temperature DHW, are often best served by a dedicated storage-based DHW system.
+
+## 8.4 Recirculation Systems
+
+Recirculation systems are commonly used in commercial and multifamily buildings to reduce wait times for domestic hot water, and the 2021 International Plumbing Code requires some form of hot-water temperature maintenance for distribution systems with developed piping lengths of more than 50 ft (15.2 m) (ICC 2021). Recirculation systems are designed to maintain hot water at the tap, ensuring quick and convenient access to hot water without waiting for it to reach the desired temperature, reducing water usage. However, these systems often account for a large proportion of DHW energy use due to thermal losses.
+
+### 8.4.1 Reducing Recirculation Energy Losses
+
+Uncontrolled DHW recirculation system energy losses can account for up to half of DHW energy requirements in commercial and multifamily buildings (Dentz et al. 2016), particularly for low-demand, low-use central systems. As such, it is important to implement measures to reduce losses associated with recirculation wherever possible. Interventions to minimize losses typically involve adding piping insulation and making control modifications to the recirculation pump operation. Often, existing buildings run recirculation systems constantly, which substantially increases energy losses. Prior studies from NREL (Dentz et al. 2016) and the California Statewide Codes and Standards Enhancement (CASE) program (Goyal et al. 2022) offer multiple DHW recirculation control strategies to reduce recirculation energy.
+
+When deciding to implement control changes to recirculation, it is important to consider the application and ensure that modifications do not result in increased risk of exposure to legionella. This is of particular concern for health-care and extended-care applications that serve occupants with weakened or compromised immune systems. A summary of recirculation control strategies is provided below:
+
+- **Scheduled Control.** This form of control utilizes the BAS or stand-alone time clocks to disable recirculation pump operation during periods when the building is unoccupied. This form of control is a mandatory requirement in ASHRAE/IES Standard 90.1.
+- **Temperature Control.** This method of pump control utilizes a temperature sensor in the recirculation line. The pump is staged on and off to maintain the recirculation temperature at a set point.
+- **Demand Control Operation.** A flow meter or switch in the domestic cold water makeup piping is used to determine when there is a demand for hot water. Upon detection of flow, the recirculation pump is enabled. This method of flow control is commonly implemented in combination with temperature control.
+- **Temperature Modulation Control.** This form of control can be used with or without other pump-control strategies. Rather than directly controlling the recirculation pump, this control strategy resets the temperature set point based on occupancy patterns. The temperature set point is reset down during expected periods of low use. Prior to anticipated periods of high use, the temperature set point is reset up. This saves energy by reducing the mean temperature difference between the piping and the ambient air. Concerns for legionella growth must be considered as part of implementing any temperature reset strategy.
+- **Machine-Learning-Based System.** Although they are not yet ubiquitous, it is expected that learning-based algorithms will become common in the future, incorporating and improving on the control strategies mentioned above.
+
+### 8.4.2 Direct-Return Systems
+
+Gas-fired and electric resistance DHW systems are almost always designed with the recirculation DHW piped to the primary DHW storage where it is reheated. This piping configuration is simple and uses the DHW stored in the tank, and associated heating source, to offset heating losses in the distribution system. While this configuration works well for gas-fired and electric resistance DHW systems, it creates issues for single-pass heat pumps (see Section 8.5), which require a low inlet water temperature to maintain capacity and efficiency. Multi-pass HPWHs do not have the same requirement for low inlet water temperature and generally can be plumbed like conventional DHW systems with direct return of the recirculation system. However, care must be taken to avoid short cycling of heat pumps during low load conditions.
+
+### 8.4.3 Recirculation System Considerations for Central Single-Pass HPWHs
+
+Two piping and storage tank combinations are commonly employed with single-pass HPWHs to ensure the heat pump uses the lowest entering water temperature, required to maximize capacity and efficiency. Both methods involve utilizing a secondary storage tank, downstream or in parallel with the primary storage volume, to separate DHW recirculation from the primary storage volume.
+
+#### 8.4.3.1 Recirculation with Swing Tanks
+
+A swing tank is plumbed in series with the primary storage volume and is equipped with a dedicated heating source, typically a small multi-pass heat pump or electric resistance heater. The DHW return is piped to this tank rather than the primary storage volume. The temperature set point on the swing tank is typically set lower than that of the primary storage and slightly higher than the distribution temperature set point downstream of the master mixing valve.
+
+During periods of DHW demand, hot water from the primary storage volume enters the swing tank and mixes with the lower-temperature hot water there before delivery to end uses. A benefit of this arrangement is that the heat generated by the primary heating source (HPWH) is used to satisfy both the DHW needs and offset recirculation losses by mixing hot water from the primary tank.
+
+[Figure: Schematic of HPWH Recirculation Loop with Swing Tank
+Type: Descriptive Diagram
+
+Description:
+A schematic diagram (Figure 8.3) showing the piping and equipment layout of an HPWH recirculation loop using a swing tank configuration. The diagram uses color-coded arrows to show flow direction: red arrows for hot water, blue arrows for cold water, and yellow/gold arrows for the recirculation loop. The system flows from left to right. Adapted from Brooks (2020) with permission of the Association for Energy Affordability.
+
+Key Elements:
+- Single-Pass HPWH (far left box) → primary heat pump water heater; heats cold makeup water to full set-point temperature in a single pass; cold water inlet from bottom, hot water outlet to Stratified Storage Tank(s)
+- Stratified Storage Tank(s) (large central red/gradient cylinder) → primary hot water storage; stratified with hottest water at top and coolest at bottom; receives heated water from HPWH; discharges hot water to Recirculating Tank
+- Recirculating Tank (smaller right cylinder, labelled "Recirculating Tank") → swing tank in series with primary storage; receives DHW return from recirculation loop; equipped with HP or Electric Resistance heater to maintain temperature; lower set point than primary storage
+- HP or Electric Resistance (label inside Recirculating Tank) → dedicated heater within swing tank for temperature maintenance during low-demand periods
+- Mixing Valve (box at upper right) → blends hot water from Stratified Storage Tank(s) with recirculation return before delivery to building; controls supply temperature
+- Hot Water to Building (arrow leaving Mixing Valve to the right) → final hot water supply to building fixtures
+- Recirculating Pump (pump symbol at far right) → circulates DHW return through the recirculation loop back to Recirculating Tank
+- Cold Water Makeup (arrow entering from bottom right) → cold domestic water inlet entering system before Recirculating Pump and HPWH
+
+Flow Logic:
+- Cold Water Makeup → Single-Pass HPWH → Stratified Storage Tank(s) → Mixing Valve → Hot Water to Building
+- Recirculation return from building → Recirculating Pump → Recirculating Tank (HP or Electric Resistance maintains temperature) → Mixing Valve
+- Hot water from Stratified Storage Tank(s) also enters Recirculating Tank during DHW demand periods]
+
+During periods of low DHW demand, the temperature in the swing tank drops due to distribution losses. The dedicated heater operates to maintain the swing tank at temperature while preserving the stratification in the primary storage volume to ensure efficient operation of the HPWH.
+
+#### 8.4.3.2 Recirculation with Parallel Recirculation Tanks
+
+Another configuration for addressing HPWH inlet temperature is a parallel recirculation tank design (see Figure 8.4). In this configuration, the recirculation tank is plumbed in parallel with the primary storage volume. Recirculation heat losses are offset within the parallel tank using a dedicated multi-pass HPWH for temperature maintenance. This design requires a higher total heat pump capacity than the swing tank configuration but can be effective for buildings with high distribution losses and when there are low and relatively intermittent hot-water loads. The multi-pass HPWH handles the temperature maintenance for the recirculation loop, while the primary HPWH operates to charge the primary tank.
+
+[Figure: Schematic of HPWH Recirculation Loop with Parallel Recirculation Tank
+Type: Descriptive Diagram
+
+Description:
+A schematic diagram (Figure 8.4) showing the piping and equipment layout of an HPWH recirculation loop using a parallel recirculation tank configuration. Color-coded arrows show flow direction: red for hot water supply, blue for cold water, and yellow/gold for recirculation return. The Recirculating Tank is plumbed in parallel (not in series) with the Stratified Storage Tank(s), unlike the swing tank configuration. Adapted from Brooks (2020) with permission of the Association for Energy Affordability.
+
+Key Elements:
+- Single-Pass HPWH (far left box) → primary heat pump water heater; cold water enters from bottom, hot water exits to Stratified Storage Tank(s)
+- Stratified Storage Tank(s) (large central red/gradient cylinder) → primary hot water storage volume; stratified with hottest water at top; hot water supply flows up and to the right toward Mixing Valve
+- Recirculating Tank (smaller right cylinder, labelled "Recirculating Tank") → parallel tank; receives DHW return from recirculation loop separately from primary storage; equipped with HP or Electric Resistance heater
+- HP or Electric Resistance (label inside Recirculating Tank) → dedicated heater within parallel recirculation tank for temperature maintenance
+- Mixing Valve (box at upper right) → receives hot water from both Stratified Storage Tank(s) and Recirculating Tank; blends to delivery temperature for building
+- Hot Water to Building (arrow leaving Mixing Valve to the right) → final supply to building fixtures
+- Recirculating Pump (pump symbol at far right) → circulates DHW return back to Recirculating Tank
+- Cold Water Makeup (arrow entering from bottom right) → cold domestic water inlet
+
+Flow Logic:
+- Cold Water Makeup → Single-Pass HPWH → Stratified Storage Tank(s) → Mixing Valve → Hot Water to Building
+- Recirculation return from building → Recirculating Pump → Recirculating Tank (in parallel with primary storage) → Mixing Valve
+- Recirculating Tank and Stratified Storage Tank(s) both independently supply Mixing Valve]
+
+**CASE STUDY: Kitsilano Pool, Canada**
+
+The Kitsilano Pool's central DHW system was retrofitted with a CO2 ASHP and two 250-gallon tanks to meet the full DHW load. A third 250-gallon tank operates as a swing tank to maintain storage tank temperature stratification.
+
+#### 8.4.3.3 Choosing Swing Tank vs. Parallel Tank Configuration
+
+In general, the choice of which system configuration is best suited for a specific application is based on the chosen heating source for the recirculation loads and the magnitude of the recirculation load. Because parallel tanks more commonly utilize multi-pass heat pumps to offset recirculation losses, parallel tank configurations are recommended for applications with high recirculation losses and relatively low DHW demand. Conversely, swing tank configurations are typically less expensive due to reduced heat pump capacity. In addition, existing gas-fired hot-water tanks or electric resistance tanks can be reused as swing tanks. In this configuration, an existing gas-fired system can serve as backup should the heat pump fail, because all DHW flows through the swing tank upstream of the distribution system.
+
+## 8.5 Heat Pump Water Heaters
+
+Heat pump water heaters (HPWH) include any heat pump that is used to produce DHW. These are the basis for most DHW electrification projects. They can be specially designed HPWHs dedicated to DHW, or they can be general-purpose air-to-water or water-to-water heat pumps with an added double-walled heat exchanger to ensure code-required double-wall separation with potable water. DHW and heating hot water (HHW) can be served from the same heat pump, though there are many factors to consider when using this approach, which is further detailed in Section 8.8. As discussed in that section, the need for higher-temperature hot water in DHW applications (often 140°F [60°C] for Legionella control) compared to HHW applications often drives a separation of these systems and the existence of a separate DHW HPWH product market.
+
+[Figure: Central Heat Pump Water Heater Design Guide: Solutions and Tools for Designing Central Heat Pump Water Heater Systems in Multifamily and Other Commercial Buildings
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the guide titled *Central Heat Pump Water Heater Design Guide: Solutions and Tools for Designing Central Heat Pump Water Heater Systems in Multifamily and Other Commercial Buildings* (ETO 2023), prepared by Ecotope for Energy Trust of Oregon. The cover photo shows Heritage Square Apartments in Pasadena.
+
+Key Elements:
+- Document title → "Central Heat Pump Water Heater Design Guide: Solutions and Tools for Designing Central Heat Pump Water Heater Systems in Multifamily and Other Commercial Buildings"
+- Author/Preparer → Ecotope for Energy Trust of Oregon (ETO 2023)
+- Purpose → Provides design engineers with information for designing central heat pump water heater systems for multifamily and commercial buildings. Engineers will find an overview of different systems with the advantages and disadvantages of each.]
+
+### 8.5.1 Heat Pump Types
+
+There are two primary types of HPWHs:
+
+- **Single-Pass.** As the name implies, single-pass HPWHs heat the DHW from the inlet temperature to the supply temperature in a single pass through the heat pump. The heat pump receives cold incoming water and heats it to the set-point temperature, typically raising the water temperature between 70°F and 100°F (38.9°C and 55.6°C). The hot-water supply to the tank can directly supply the end use fixtures. Because they are designed for a large lift, single-pass HPWH systems rely on colder inlet temperatures for the heat pump and temperature stratification within the storage system.
+- **Multi-Pass.** A multi-pass primary system heats incoming water incrementally, raising the temperature of the water with each pass. Multi-pass water heaters typically raise the water temperature approximately 10°F (5.6°C) with each cycle, operating as many cycles as needed to achieve the set-point temperature. Multi-pass systems also rely on temperature stratification but do not require the large differential that single-pass systems do. Multi-pass systems can also operate more efficiently than single-pass HPWH with higher incoming water temperatures.
+
+Both types can be used with central water heating systems, with or without recirculation loops, which are discussed in Section 8.4. Single-pass systems generally have a higher operating efficiency than multi-pass systems, but care must be taken during times of low load so that very warm return water does not disturb stratification in the storage tank.
+
+Integrated storage HPWHs are typically multi-pass types and can be used in either a distributed system or a small central system. These have the heat pump heating and storage tank in a self-contained unit. Many 120V designs of integrated HPWH are now available, making installation easier. While the installation of a 120V integrated HPWH may appear a simple replacement to a conventional tankless residential water heater, the electrical capacity (especially if the existing water heater was gas fired) must still be evaluated to confirm it is sufficient.
+
+### 8.5.2 Refrigerants
+
+Refrigerants and their ability to reach a given maximum hot-water supply temperature under specific ambient air or source water conditions play a key role in heat pump technology. Refrigerants can be broadly categorized by operating pressure:
+
+- **Medium Pressure.** R-134a and its corresponding low-GWP replacements R-513A, R-515B, R-516A, R-1234yf, and R-1234ze can typically generate up to 160°F (71.1°C) hot water, though for air-source applications they are generally limited to ambient temperatures around freezing. These refrigerants can be used in either single-pass or multi-pass HPWHs.
+- **High Pressure.** R-410a and its corresponding low-GWP replacements R-32, R-454B, R-452B, and R-466A can typically generate up to 140°F (60°C) hot water with vapor compression (130°F [54.4°C] without) and operate at ambient temperatures well below freezing. These refrigerants are typically used in multi-pass HPWHs.
+- **Very High Pressure.** R-744 (CO2) can typically generate up to 190°F (87.8°C) hot water at very low ambient temperatures (–25°F [–31.7°C]). R-744 is typically used in single-pass HPWHs. Due to the high operating pressure, the equipment can come at a cost premium, depending on the size of the system. Small systems, or modular systems made up of multiple small units, tend to be the most cost-effective approach.
+
+### 8.5.3 Heat Pump Heat Sources
+
+Heat pump water heaters are either air-to-water heat pumps or water-to-water heat pumps. For WWHPs, the heat source can be the ground or other large physical body (e.g., ocean), sewer water or other type of heat recovery (e.g., the heat rejection of a chilled-water loop or condenser water loop), or an AWHP in series.
+
+- **Air.** Air as a source of heat is relatively straightforward when it is outdoor air, which is effectively an infinite source. The considerations of outdoor air temperature and heat pump operation are no different than in any other air-source heat pump application. Air-based heat recovery can improve efficiency and is discussed in Section 8.7.
+- **Ground.** A ground-source heat pump application for DHW is typically combined with a heat pump for space cooling/heating. As in any ground-coupled application, the heating and cooling loads need to be relatively balanced over the course of the year (depending on climate) so as not to overcool or overheat the ground and destroy the heat source. As a result, a heating-only application like DHW would not work in a purely ground-coupled application unless there were enough groundwater flow to effectively act as the heat source.
+- **Sewer-Water or Other Water-Based Heat Recovery.** See Section 8.7.
+- **AWHP in Series with WWHP.** In many water-source HPWH applications, there is not a consistent renewable source of heat serving the source side. In those applications, you would need to supplement with an air-to-water heat pump, effectively using the air as the heat source. In most climates, this type of series/cascaded refrigeration loop setup will be less efficient than a stand-alone AWHP unless there were another source of heat in the loop, such as recovered heat from a cooling process. An example application would be a condenser water loop system, where space heating and cooling are served by WSHPs and the DHW is served by a WWHP on the same loop. When the WSHPs are primarily in cooling mode, the DHW has a free source of heat. When the WSHPs are primarily in heating mode, a separate AWHP needs to inject heat into the condenser water loop to satisfy both the space heating and DHW needs.
+
+The type of heat source most appropriate for the retrofit will depend on which sources are available per the existing conditions assessment described in Section 8.1 and the broader existing building considerations covered in Chapter 4.
+
+## 8.6 DHW Storage Systems
+
+### 8.6.1 Cost and GHG Emissions Benefits of Increased DHW Storage
+
+While the conversion of gas water heaters to electricity-based HPWHs forms an integral part of the decarbonization strategy for DHW systems, a key component to improving the effectiveness of HPWHs is the hot-water storage tank. DHW storage systems can be viewed as a form of TES system (discussed in Chapter 7), which helps store hot water during periods of low demand for use during periods of high demand. Similar to TES systems, described in Section 7.5 in Chapter 7, DHW storage facilitates peak load reduction and shifting of DHW production to minimize GHG emissions. Increasing DHW storage volumes provides two simultaneous benefits:
+
+- **Reduces First Costs.** HPWHs are very expensive compared with traditional DHW heating systems. Increasing storage volumes allows for reduced capacity of installed HPWHs (see Section 8.2), which reduces capital costs, potentially at the expense of increased space requirements.
+- **Enables Grid-Interactive Control.** Increased storage volumes reduce emissions in a couple ways. First, the installed heat pump capacity can be reduced, reducing peak electrical demand and corresponding emissions when the heat pump operates during periods of high grid emissions. Second, increased storage can facilitate the ability to operate the HPWHs at lower grid emissions periods, generating DHW water during off-peak hours for later use.
+
+### 8.6.2 DHW Storage Considerations for Retrofits
+
+Total DHW storage must take into consideration both the useful storage volume (the result of sizing calculations) and the storage volume required to prevent HPWH short cycling. The total volume also must include an allowance for unusable volumes of water located below the cold-water inlet to the storage tank(s).
+
+Identifying adequate space and access routes for increased DHW storage volumes within existing buildings can be challenging and often necessitates the installation of tank arrays versus a smaller number of large tanks. Multiple tanks provide more flexibility with tank layout but at the expense of overall higher footprint requirements and increased standby losses. However, for smaller systems, tank arrays may provide a first cost advantage if tank sizes are maintained below 120 gallons (454 L) and ASME ratings are not required.
+
+Piping configurations for tank arrays are dependent on the type of heating technology. For electric resistance and multi-pass heat pumps, piping tanks in parallel is a common approach. This arrangement facilitates the use of standard tanks with factory-standard pipe connection sizes, and such piping configurations are commonly understood among installers. In addition, isolating a failed tank is straightforward and does not affect the rest of the system.
+
+For single-pass HPWH applications requiring a high degree of tank stratification, consider piping tanks in series to promote stratification. In this application, care must be taken to ensure that pipe connection sizes are large enough to accommodate full system flow and run at a low enough velocity to avoid disrupting tank stratification. This often requires the use of semi-custom or custom tanks. The piping configuration should also consider tank failure, with additional isolation valves and tank bypass piping to facilitate removal of a failed tank without the need to shut down the entire system.
+
+### 8.6.3 Controls and Automation
+
+DHW controls can be designed to operate a central DHW system on demand based on historical load profiles, temperature- and occupancy-activated controls, and timers to circulate water only when needed to eliminate unnecessary pumping. This strategy reduces energy consumption during periods of low demand.
+
+DHW storage tanks also allow for the use of heat pumps during times of low GHG emissions to charge tanks for distribution during periods of high GHG emissions. These periods may depend on grid marginal emissions or on-site clean energy generation periods. Control strategies for load shaving and shifting using hot-water tanks can have three levels of complexity:
+
+- **Simple On/Off.** Operation schedule controlled by a simple timer which will block heat pump operation during times of high grid emissions. However, the drawback with this is that if the water demand is high then the storage tank may not be able to satisfy the needs fully. A common way to mitigate this problem is to increase set point temperature but that can contribute to increased losses.
+- **Load-up/Shed.** This strategy is slightly more sophisticated than simple on/off in that the low GHG emissions hours are used to preheat the water, reducing the energy required during on-peak hours.
+- **Grid Optimization.** This grid-interactive control automatically adjusts HPWH operation based on grid marginal emission factors and the predicted DHW demand based on historical system load data.
+
+## 8.7 Heat Recovery and Renewable Heat Sources
+
+Exploring heat recovery and renewable heat sources for DHW can contribute to reducing DHW load on heat pumps and associated electrical demand/consumption requirements.
+
+### 8.7.1 Heat Recovery
+
+The applicability of heat recovery options depends on the HPWH system configuration. For example, single-pass HPWH systems rely on a cold inlet water temperature to operate efficiently. Incorporating heat recovery with single-pass heat pumps generally should be achieved in a parallel configuration rather than as a preheat arrangement. In contrast, multi-pass HPWHs can often take advantage of preheat-configured heat recovery to reduce the number of cycles required to achieve the DHW set point.
+
+Potential active heat recovery applications for DHW systems include:
+
+- **Heat Recovery from Cooling Systems.** Heat produced as part of building cooling can be reclaimed to heat DHW systems rather than being rejected to the atmosphere. Heat can be captured from condenser systems to preheat DHW, or a dedicated WWHP can be utilized to heat DHW by directly cooling the chilled-water loop or condenser water loop.
+- **Heat Recovery from Sewer Water.** Sewer water can be a great source of heat, particularly for buildings with large DHW loads or campus-level systems. Unlike other heat recovery strategies that store reclaimed heat as DHW, sewer heat recovery systems use a holding tank to capture water, which can be pumped through a heat exchanger for the HPWH. Some HPWH designs allow for sewer water from the holding tank to be pumped directly through the HPWH. Other systems include a macerator system and intermediate heat exchanger, piped for backflushing, to protect the HPWH.
+- **Heat Recovery from Air.** To the extent that air-source HPWHs can be placed near heat-producing equipment, heat recovery from the indoor air is possible via transfer air. One simple example of this is to place an integrated HPWH in a janitor's closet next to an IDF closet and duct the air to the IDF closet. On a larger scale, air-source HPWHs can be located in underground garages, which have code minimum exhaust ventilation requirements. This also takes advantage of the tempering effect of the garage being ground-coupled and includes some small heat loads (cars, chargers, lights, etc.).
+- **Heat Recovery from Other Processes.** Some commercial and industrial buildings produce excess heat as a byproduct of their processes, often at temperatures suitable for direct DHW heating. Common examples of such processes are those that utilize co-generation equipment, such as jacket water and/or lube oil coolers. Other examples include process cooling applications, such as glycol systems utilized for breweries. In this application, the heat of fermentation can be recovered to heat DHW.
+
+### 8.7.2 Renewable Heat Sources
+
+Solar thermal collectors are a common renewable energy system used to heat DHW directly. Solar collectors do have the ability to heat DHW to usable temperatures without additional heating; however, due to the variability in solar availability, solar thermal systems are typically integrated as preheating components for DHW systems. Sizing considerations must include potential solar array temperature stagnation during periods of high solar gain. Often, a supplementary heat rejection source, such as a dry cooler, is required to protect the solar system from overheating during periods of high solar gain and low use.
+
+While solar thermal hot-water heating systems provide a large amount of thermal energy per square foot of collector area, they represent a trade-off with PV systems, which may be a better fit for reducing building GHG emissions overall, whether by powering the HPWH or other HVAC equipment for the building.
+
+## 8.8 Combined Systems and Hybrid Fuel Systems
+
+### 8.8.1 Combined Systems
+
+A combined system, often called a combi system, refers to a configuration where both space heating and DHW heating are met by a single energy source. Combined systems can provide a number of benefits as part of the electrification process:
+
+- **First-Cost Efficiency.** Combining space heating and DHW heat generation into a single system often has first cost benefits because heat pump equipment provides dual duty to meet both loads. This can reduce first costs associated with heat pumps and associated hot-water storage. For example, hot-water buffer tanks can serve both to prevent heat pump short cycling during low loads and to act as a source of thermal energy storage to meet DHW loads.
+- **Space Savings.** Combined systems often require less space compared with two separate systems, which can make these systems an attractive choice in existing buildings with limited available space.
+- **Integrated Heat Recovery.** Heat recovery can be readily integrated with combined systems, with summer cooling loads being used to heat DHW essentially free of cost.
+
+[Figure: Diagram of (a) Combined Space and (b) DHW Heating System
+Type: Descriptive Diagram
+
+Description:
+A side-by-side schematic diagram (Figure 8.5) showing two system configurations for combined space and DHW heating. Diagram (a) shows a traditional combined system with a Storage Water Heater serving both DHW loads and a Hydronic Air Handler for space heating. Diagram (b) shows a tankless water heater (TWH) variant of the same combined system. Both diagrams use color-coded piping: red for hot water supply, blue for cold water makeup, and brown/mixed for return lines. Image credit: Shoenbauer et al. (2017), used with permission from the Center for Energy and Environment (CEE).
+
+Key Elements:
+- (a) Combined Space and DHW system with Storage Water Heater:
+  - Cold In from Mains → cold domestic water inlet
+  - DHW Mixing Valve → blends hot water with cold to achieve delivery temperature for DHW Loads
+  - DHW Loads → domestic hot water delivery point (arrow leaving system at top right)
+  - Hot Space Heating Air → heated air output from Hydronic Air Handler (arrow leaving at top right)
+  - Storage Water Heater → central heating and storage device for both DHW and HHW
+  - Supply to AH → hot water supplied from Storage Water Heater to Air Handler
+  - Hydronic Air Handler → fan coil unit using hot water from Storage Water Heater for space heating
+  - Return from AH → hydronic return from Air Handler back to Storage Water Heater
+  - Return Air → return air entering Hydronic Air Handler
+
+- (b) Combined Space and DHW system with Tankless Water Heater (TWH):
+  - Same layout and flow paths as (a) but with a Tankless Water Heater (TWH) replacing the Storage Water Heater
+  - TWH → instantaneous/tankless heating source for both DHW and space heating loads
+  - All other components (DHW Mixing Valve, DHW Loads, Hot Space Heating Air, Supply to AH, Hydronic Air Handler, Return from AH, Return Air) identical to (a)]
+
+Traditional fossil-fuel-based combined systems typically take a centralized approach to DHW heat generation and storage, with indirect DHW tanks being located near the boilers and DHW being distributed throughout the building with a dedicated distribution system. While this approach is common with modern heat-pump-based combined systems, a distributed approach to DHW is also possible with combined systems. Unlike distributed DHW systems discussed in Section 8.3, a combined-system approach maintains the ability to leverage large volumes of hot-water storage to facilitate load shifting while providing the benefits of a distributed DHW system.
+
+A distributed approach eliminates central DHW distribution and recirculation by utilizing the heating hot-water system for energy distribution. Hot water to DHW heat exchangers are located in each suite, floor, or fixture group to generate DHW on demand. This approach can be an economical solution for buildings with low use and distributed DHW needs. A few benefits of this approach over a stand-alone DHW distributed system are that electrical modifications are largely limited to the mechanical plant rather than being distributed throughout the building and that the system can still leverage thermal energy storage back at the plant for load shifting.
+
+The primary challenge when meeting both DHW and heating hot water needs with a single heat pump is the difference in operating temperatures between the systems. As discussed in Chapter 6, a key aspect to efficient HVAC electrification is operating with the lowest heating hot-water temperatures possible to increase heat pump efficiency. By implementing low-temperature terminal unit conversions, or an aggressive demand-based temperature reset, heating hot-water temperatures often may be lower than that required for DHW heating. DHW heating requires stable operating temperatures year-round, which severely limits options to reset hot-water temperatures. The performance of a combined space heating and DHW system must be evaluated against a decoupled system to understand trade-offs between energy efficiency, first costs, and GHG emissions reduction.
+
+It is often beneficial to provide a dedicated high-lift heat pump to meet the needs of DHW loads when the heating hot-water temperature set point is below useful temperatures for DHW heating. This can be accomplished in a number of configurations. In scenarios with a consistent year-round cooling load, a heat recovery chiller can be integrated into the system to reclaim heat from the cooling loads to service DHW needs. Alternatively, a dedicated high-lift AWHP or WWHP can be dedicated to DHW loads while also contributing to space heating needs when DHW is satisfied. Refer to Section 6.1.3 in Chapter 6 for considerations when sizing heat recovery chillers.
+
+### 8.8.2 Hybrid Systems
+
+As discussed elsewhere in the guide, particularly in Chapter 6, hybrid systems can be useful as part of a phased decarbonization approach. Hybrid systems combine fossil fuel equipment and electrified equipment within systems, which is different than dual-fuel equipment (described in Chapter 6), which combines fossil fuel and electric sources in the same piece of equipment. Existing fossil fuel systems can be retained for redundancy or peaking capacity. This is often a viable approach when financial constraints do not allow for required redundancy via additional heat pumps or when electrical service upgrades are being deferred to a later stage in a phased decarbonization approach, such as in the UC Santa Cruz case study.
+
+The risk with this approach is that the fossil fuel system ends up operating as the default stage for DHW, negating energy and carbon reduction savings. This is common when control systems are not carefully commissioned with approach deadbands and delays and when the operating strategy is not clearly communicated with operations staff.
