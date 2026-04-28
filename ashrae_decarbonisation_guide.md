@@ -1685,6 +1685,389 @@ Key Elements:
 - Purpose → Outlines the critical role operations and maintenance play in increasing energy efficiency and adding value for property owners and their portfolios (AOBA 2023). Readers will learn key strategies for building an internal culture that promotes efficiency; addressing reactive, proactive, and predictive maintenance; and examining the whole building as well as key building components for energy efficiency opportunities.
 - Intended use → Meant to be used as the basis for creating manuals tailored to individual facilities or companies.]
 
+# Chapter 4: Challenges Unique to Existing Buildings
+
+## 4.1 Existing Building Considerations
+
+This chapter provides a discussion of key considerations for decarbonization retrofits within existing buildings. Existing buildings can have a host of challenges different from new construction projects that can easily disrupt or impede a retrofit project. Given the number of challenges that may exist when decarbonizing existing buildings, the decarbonization assessment discussed in Section 3.3 should be used to detail existing conditions and potential challenges to properly evaluate and design retrofit measures. Occupants and facilities stakeholders can be a resource: their knowledge of existing conditions and operations can offer valuable insight into what might need to change as part of a renovation to increase occupant satisfaction and wellness.
+
+This chapter includes the following considerations, although this is not an exhaustive list:
+
+- insufficient electrical or structural capacity for new equipment, systems, or envelope upgrades
+- building age and envelope conditions that may be hard to renovate but that could significantly affect the performance of decarbonization scenarios
+- space constraints that complicate existing system or equipment removal and/or limit new system options
+- building systems and conditions that are not compliant with local building codes and must be upgraded as part of a retrofit project
+- historic building considerations and restrictions due to local ordinances
+- occupants or process operations that require disruption during implementation
+- equity and affordability considerations that may limit stakeholder participation or result in unintended community impacts
+- owner-occupied vs. leased buildings' financial constraints due to tenant lease structures and phasing challenges with multi-tenant buildings
+
+## 4.2 Electrical Capacity
+
+Converting from fossil fuel building systems and appliances to electric systems or installing EV charging stations can increase a building's electrical load. An electrical demand analysis of meter readings on the current system's operation must be done to evaluate the building's current and anticipated electrical demands. The analysis should include an investigation of circuit sharing, load diversity, and smart devices/panels that can share or schedule loads without increasing the electrical service size. The analysis also should evaluate whether the existing electrical service may allow for partial electrification without major upgrades. In some cases, this approach may make the most sense for the building owner. In cases where electrical service upgrades are necessary, the upgrade may be small (adding sub-panels and electrical conduits) but can also include upgrading utility transformers and switchgear. Utility electrical service upgrades are often costly and time consuming (several months), requiring coordination with utility providers, compliance with current code requirements, and disruptions to building operations. A discussion of including electrical service upgrades in the decarbonization plan is included in Section 3.5.2 in Chapter 3.
+
+There are several solutions to consider when addressing electrical capacity issues in existing buildings. In addition to those listed below, Chapter 5 provides additional guidance on technologies and strategies to manage and minimize electrical loads, including:
+
+- load reduction and thermal storage to minimize electrical demand
+- load-management switching devices that allow loads to share circuits and prioritize operations based on demand
+- smart building systems with advanced control and automation capabilities to optimize equipment operation, curtail load, and shift energy consumption
+- integrating distributed energy resources such as solar PV systems and energy storage to offset grid electricity consumption and provide flexibility
+- energy storage systems, such as batteries, to help manage peak grid demand by storing and discharging energy when needed
+- prioritizing decarbonization measures such as hybrid electrification with less demanding electrical needs and planning a multiyear roadmap of utility service electrical capacity upgrades to gradually reach full decarbonization
+
+[Figure: CASE STUDY: Bloedel Conservatory, Canada
+Type: Image
+
+Description:
+A callout box referencing Case Study 6 for Bloedel Conservatory in Vancouver, BC, illustrated with building and grid icons.
+
+Key Elements:
+- Case Study number → 6
+- Location → Bloedel Conservatory, Vancouver, BC, Canada
+- Key action → A central plant serving nine AHUs was replaced with an air-to-water heat pump (AWHP)
+- Constraint addressed → Due to existing electrical constraints, an active demand management strategy is implemented to operate the AWHP within the electrical capacity
+- Future plan → Future electrical upgrades are planned]
+
+[Figure: StopWaste and the Association for Energy Affordability's Accelerating Electrification of California's Multifamily Buildings: Policy Considerations and Technical Guidelines
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the StopWaste and Association for Energy Affordability (AEA) report titled "Accelerating Electrification of California's Multifamily Buildings: Policy Considerations and Technical Guidelines," published May 2021.
+
+Key Elements:
+- Document title → "Accelerating Electrification of California's Multifamily Buildings: Policy Considerations and Technical Guidelines"
+- Publishers → StopWaste and Association for Energy Affordability (AEA)
+- Publication date → May 2021
+- Content → Includes step-by-step instructions for evaluating electrical loads and capacity using the National Electrical Code's (NEC) electrical load calculation method or load-monitoring studies (StopWaste and the Association for Energy Affordability 2021)
+- Guidance scope → Provides guidance on next steps if a capacity deficiency is found and alternatives should electrical infrastructure upgrades be unfeasible
+- Cost estimates → Included based on different levels of upgrades
+- Case studies → Several multifamily building case studies showcase various electrification strategies]
+
+## 4.3 Structural Capacity
+
+New equipment may be much heavier than the existing equipment it replaces or may need to be located in new spaces not originally designed for housing equipment, e.g., locating ASHP skids and large-volume buffer tanks on roofs not originally designed to hold equipment or adding roof-mounted solar PV arrays. This is more critical in seismic zones, where the increase in weight may trigger an upgrade in the lateral system. Therefore, decarbonization strategies need to address the challenges and limitations associated with structural capacity, starting with a load assessment.
+
+**Structural Load Assessment.** Conducting a structural assessment is an important part of evaluating retrofit measures with equipment replacement and/or new proposed piping routes, etc., to determine its capacity for supporting additional loads. This assessment helps identify any structural weaknesses, such as inadequate foundations, load-bearing walls, or floor systems, which may require reinforcement or retrofitting. A field investigation will be needed with or without existing structural drawings to assess whether additional structural reinforcement is required in areas where new equipment will be located. Structural load assessment also includes wind load analysis for replacement rooftop equipment such as chillers, rooftop units, solar PV, or additional HVAC equipment. A taller and heavier rooftop unit that sits above an existing roof curb and is exposed to wind can create forces the roof structure was not designed to withstand.
+
+[Figure: CASE STUDY: StopWaste Office, California
+Type: Image
+
+Description:
+A callout box referencing Case Study 7 for StopWaste Office in Oakland, CA, illustrated with building and office icons.
+
+Key Elements:
+- Case Study number → 7
+- Location → StopWaste Office, Oakland, CA
+- Key action → A packaged RTU heat pump retrofit where a structural load assessment was performed to determine whether upgrades were needed for increased size and weight of RTUs
+- Reference → See the appendix for more details on the StopWaste Office]
+
+**Structural Reinforcement and Retrofitting.** Structural reinforcement may be necessary to enhance the capacity of existing buildings to support the installation of decarbonization technologies. This may involve strengthening load-bearing elements, such as beams or columns, or introducing additional structural elements, such as bracing or shear walls, to improve stability and load resistance. Seismic upgrades and compliance with updates to seismic codes should be considered. Existing buildings often have limited space for integrating these upgrades. See Section 4.5 for space constraint strategies.
+
+**Building Envelope Upgrades.** Enhancing the building envelope through insulation, window upgrades, and air sealing is a key strategy for reducing energy consumption. However, these measures can impose additional loads on the structure. Proper analysis and consideration of the structural implications are necessary to ensure that the building can withstand the added weight and potential changes in loading patterns.
+
+## 4.4 Building Age and Envelope/Infrastructure Condition
+
+The age and condition of the building and its envelope may affect the performance of planned decarbonization strategies. The building envelope—including foundation, roof and wall assembly, windows, and doors—is significantly affected by age. Gaps, cracks, and holes in the building envelope result in unintended air leakage. Single-pane windows, double-pane windows with failed seals, thermal bridging, and lack of wall and roof insulation, etc., all can result in a compromised building envelope, increasing building energy use and occupant discomfort.
+
+Upgrades to the existing building envelope, such as weatherization, upgrading windows, adding insulation, etc., should be evaluated to determine reductions to building heating and cooling loads. These upgrades should then be incorporated in conjunction with HVAC equipment upgrades to potentially reduce the size of new HVAC systems and associated costs for HVAC system decarbonization upgrades. Replacing or moving HVAC equipment also might cause differences in the building's vibration transmission characteristics—something to evaluate as part of the decarbonization strategy.
+
+From a design perspective, considerations related to the ratio of building core versus shell and the orientation of the building are important. For example, building envelope improvement measures tend to have a bigger impact on smaller buildings than on larger buildings. When considering building massing, buildings with the long axis oriented east–west make envelope upgrades, daylighting, and natural ventilation measures more impactful. Some considerations for upgrading the existing building envelope include the following, which are discussed further in Section 5.2.1 in Chapter 5:
+
+**Insulation.** One of the primary challenges is ensuring proper insulation throughout the building envelope. Existing buildings may have insufficient or outdated insulation, making it necessary to add or upgrade insulation materials.
+
+**Air Sealing.** Effective air sealing is crucial to prevent air leakage through cracks, gaps, and openings in the building envelope. Air leaks can result in significant energy loss and reduce the effectiveness of HVAC systems.
+
+**Window Upgrades.** Windows are a significant source of heat gain and heat loss in a building. Upgrading windows to more energy-efficient options, such as double-glazed or low-emissivity (low-e) windows, can improve thermal performance.
+
+**Roof Upgrades.** The roof is another critical component of the building envelope that can affect energy efficiency. Upgrading the roof can result in peak heating load reduction. Older roofs may lack proper insulation or have deteriorated over time, leading to heat gain or loss.
+
+**Moisture Management.** Upgrading the building envelope should include moisture management to prevent issues such as mold growth, decay, and deterioration. The challenge is to balance energy efficiency with adequate ventilation and moisture control.
+
+## 4.5 Space Constraints
+
+Existing buildings may have limited roof/floor area, ceiling height, or structural limitations that restrict the installation of new equipment or systems. These physical constraints can pose challenges when implementing decarbonization strategies, including:
+
+- New equipment installed during a decarbonization retrofit may have a larger footprint than the existing equipment because of its better efficiency and greater heat transfer area.
+- Space limitations may pose challenges for installing additional electrical panels, upgrading plumbing systems, or installing more complex equipment (e.g., cascaded air-to-water and water-source heat pumps).
+- Air-source heat pumps also may have increased ventilation requirements, including additional room volume beyond the size of the equipment itself. Replacing gas boilers, which are relatively small and typically located indoors, with air-to-water heat pumps that are larger and typically located outdoors is a common issue.
+- Existing mechanical rooms may have been built around large equipment, leaving minimal space for service clearance.
+- Installing refrigerant-based electric solutions in existing boiler rooms can require a refrigeration machine room.
+
+In all these cases, removing the existing equipment and delivering and installing the new equipment can pose significant space constraint challenges and require careful planning during design and the pre-construction period. Some strategies, challenges, and solutions related to space constraints include the following:
+
+**Efficient Space Planning.** Optimize the use of available space through thoughtful planning and design. When feasible, use flexible layouts, shared spaces, and multifunctional areas to maximize limited square footage. Collaborate with architects and designers to develop creative design solutions that maximize available space. This may involve reconfiguring layouts, optimizing underutilized spaces, or incorporating storage solutions. Use building information modeling (BIM) technology to simulate and visualize different design scenarios before implementation. This can help identify potential clashes or conflicts with space constraints and optimize design decisions accordingly.
+
+**Compact and Space-Saving Equipment.** To address space limitations, select modular and compact replacement equipment that is designed to occupy less space without compromising performance. Look for innovative technologies specifically designed for space-constrained environments, such as compact and integrated systems that combine multiple functions into a single unit, reducing the overall footprint. This also ensures that the equipment can fit through narrow access passages in existing buildings, such as hallways, staircases, or single doors.
+
+Large equipment may need to be delivered in modular pieces and assembled on-site in the mechanical rooms, though more labor intensive. Off-site construction methods or prefabricated modular systems can be more easily installed in limited spaces. This allows for faster and more efficient installation while minimizing disruption to building occupants. Existing buildings also may have unused or partially used spaces that might accommodate equipment or allow expansion of existing mechanical rooms. In such cases, this will require working with building owners and operators during design to reconfigure or repurpose rooms for mechanical equipment in advance of implementation.
+
+**Mechanical Room Location.** From an implementation perspective, considerations of mechanical room location and access are important. For example, mechanical rooms located on upper floors of high-rise buildings may require additional planning and logistics for mechanical equipment installation. Some installations may require crane lifts or even helicopter lifts, which represent substantial cost and schedule impacts. Even seemingly simple retrofits may require additional planning and coordination based on building or space configurations. For example, LED lighting retrofits in a high-ceilinged building or space may require the use of man lifts and additional planning and safety coordination to implement successfully.
+
+## 4.6 Local Building Codes and Ordinances
+
+Decarbonization retrofit activities may trigger the need to comply with multiple codes and standards not previously applicable to an existing building, including building codes, mechanical codes, plumbing codes, electrical codes, fire and life safety codes, ventilation standards, and accessibility code requirements. "Reach" or "stretch" codes, "green" codes, and building electrification policies are being adopted locally around the nation and should be consulted for related requirements for energy or emissions reduction, EV infrastructure, clean power generation, wildfire mitigation, and other topics that could influence the decarbonization strategy.
+
+[Figure: California IOU Reach Codes Subprogram
+Type: Image
+
+Description:
+A sidebar callout describing the California IOU Reach Codes Subprogram.
+
+Key Elements:
+- Program name → California IOU Reach Codes Subprogram
+- Administrator → Investor-owned utilities (IOU) in California, administered under the California Public Utilities Commission (CPUC)
+- Purpose → In an effort to meet climate action plans, local authorities having jurisdiction (AHJs) are adopting energy codes and stretch codes that are more stringent than the national model codes
+- Resource → Created a website resource that tracks which AHJs in California have locally adopted reach codes and briefly summarizes the reach code topics (CPUC n.d.)]
+
+Design engineers also should be mindful, that in some cases, adjustments required to comply with current building codes and standards can result in increased energy use compared to that of the existing systems. These impacts should be included in an analysis of the change in energy use and carbon emissions for the project and may drive a pursuit of alternative technologies or unique decarbonization strategies. The Montreal City Hall project provides an example where ASHPs were located within a mechanical room due to roof space limitations and local municipal codes for rooftop equipment.
+
+## 4.7 Historic Buildings and Regulatory Constraints
+
+Decarbonizing historic buildings can present challenges due to their architectural significance and unique characteristics. Implementing decarbonization strategies in these buildings requires careful planning and thoughtful approaches to preserve their historic value and, in some cases, meet preservation requirements while reducing carbon emissions.
+
+A resource for dealing with historic building constraints is ASHRAE Guideline 34, Energy Guideline for Historic Buildings. Although the guideline was written in the context of energy efficiency upgrades, the practices shared for preserving the historic characteristics of an existing building apply to decarbonization renovations as well. Collaborating with preservation experts and working closely with local authorities can help address these challenges.
+
+[Figure: CASE STUDY: Montreal City Hall, Canada
+Type: Image
+
+Description:
+A callout box referencing Case Study 8 for Montreal City Hall, Canada, illustrated with building and city hall icons.
+
+Key Elements:
+- Case Study number → 8
+- Location → Montreal City Hall, Montreal, Quebec, Canada
+- Key action → ASHPs were located within a mechanical room due to roof space limitations and local municipal codes for rooftop equipment
+- Benefit → Locating the ASHPs indoors also proved beneficial for heat pump performance in heating season because of the cold climate]
+
+[Figure: ASHRAE Guideline 34, Energy Guideline for Historic Buildings
+Type: Image
+
+Description:
+A sidebar callout showing the cover of ASHRAE Guideline 34-2019, Energy Guideline for Historic Buildings, approved by ASHRAE on February 11, 2019.
+
+Key Elements:
+- Document title → "ASHRAE Guideline 34-2019: Energy Guideline for Historic Buildings"
+- Publisher → ASHRAE (2019c)
+- Approval date → February 11, 2019
+- Purpose → Provides sound advice on the practices, processes, and workflows that should be followed when performing energy efficiency and energy conservation improvement projects and programs involving historic buildings, while minimizing disturbance to the historic character, characteristics, and materials (significance, value, and qualities) of the building (ASHRAE 2019c)
+- Availability → Available at www.ashrae.org or from ASHRAE Customer Service, 1791 Tullie Circle, NE, Atlanta, GA 30329-2305; orders@ashrae.org; Fax: 678-539-2129; Telephone: 404-636-8400 (worldwide) or toll free 1-800-527-4723 (for orders in US and Canada)]
+
+[Figure: CASE STUDY: Montreal City Hall, Canada (Historic Building)
+Type: Image
+
+Description:
+A second callout box referencing Case Study 8 for Montreal City Hall, Canada, focused on its historic building aspects.
+
+Key Elements:
+- Case Study number → 8
+- Location → Montreal City Hall, Montreal, Quebec, Canada
+- Historic context → The historic nature of the building drove many design decisions
+- Ground source consideration → Ground source loops were considered but determined not feasible due to archaeological requirements for the historic site
+- Radiant system → Historic finishes on walls and floors eliminated radiant floors as a potential measure; radiant ceilings were implemented instead]
+
+## 4.8 Occupant Considerations
+
+Existing building retrofit projects must consider how the decarbonization measures—both the measures themselves and the implementation (i.e., construction)—will affect building occupants. Working with an occupied or partially occupied building during construction requires planning and occupant coordination ahead of time. For example, building tenants may need to occupy the building during construction, requiring construction to be staged in phases during hours tenants do not occupy the spaces. Staging and other considerations relevant to occupied building renovations are discussed in Section 3.6 in Chapter 3.
+
+[Figure: A Field Guide to Retrofits in Occupied Buildings
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the guide titled "A Field Guide to Retrofits in Occupied Buildings," published by the Centre for Urban Growth and Renewal (CUG+R), June 2020.
+
+Key Elements:
+- Document title → "A Field Guide to Retrofits in Occupied Buildings"
+- Publisher → Centre for Urban Growth and Renewal (CUG+R 2020)
+- Publication date → June 2020
+- Supported by → Multiple organizations (logos shown on cover)
+- Audience → Apartment owners, the construction industry, and apartment residents navigating retrofit construction projects in Canada
+- Purpose → Presents strategies and methods for conducting a retrofit efficiently and effectively while tenants are in the building (CUG+R 2020)]
+
+The independent climate emergency response organization Architecture 2030 has identified points in the lifespan of a building, dubbed intervention points, that represent potential renovation times that minimize costs, impacts to occupants, etc. The intervention points largely align with necessary capital improvements and renovations. Architecture 2030 highlights the circumstances where intervention points are most applicable and the key stakeholders for coordination.
+
+[Table: Table 4.1 Architecture 2030 Intervention Points for Building Energy Upgrades
+Type: Table
+
+Data:
+| Intervention Point | Where Intervention Point is Most Applicable | Key Stakeholders |
+|---|---|---|
+| Building Point of Lease/Rental | Large stock of apartments or leased properties; Large transient populations (e.g., students, seasonal workers); High value/competitive rental market | — |
+| Building Point of Sale | Highly active or valuable real estate market; Frequent building turnover rates (3%+ annually) | — |
+| Building Renovation | Large institutional or long-term building owners (e.g., universities, hospitals, government); Historically significant building stock; Limited rates of new construction | Building owners, tenants, historical commissions, contractors and trades, utilities |
+| Building Maintenance and Major System Replacement | Aging building stock; Prevalence of legacy building systems (e.g., fuel oil heating, incandescent lighting) | Building owners, landlords, building managers, systems installers and contractors |
+| Building Resilience Upgrades | Geographic risk of fire, flood, or seismic events; Predominance of weather extremes (hot/cold); Existing policies or programs for resilience/life safety retrofits for older structures | Homeowners, building managers, health and safety regulators |
+
+Notes: Table Source: Architecture 2030 (2023)]
+
+## 4.9 Equity and Affordability
+
+Equity and affordability are common concerns for both commercial and multifamily buildings. The up-front costs of decarbonization can be a barrier, especially for smaller businesses and low-income households. To address this, financial incentives, grants, tax credits, and utility rebates can make decarbonization more affordable and encourage wider adoption. Engaging with local communities and stakeholders to understand their specific needs and concerns can help tailor decarbonization strategies that are both effective and affordable. Providing training opportunities for the local workforce, such as workshops with industry experts, is key to a successful technological and economic shift to decarbonization, especially in communities of concern.
+
+In commercial buildings, equity can be addressed by ensuring that decarbonization strategies are accessible to businesses of all sizes. Small businesses may face financial constraints and lack the resources to invest in costly upgrades. Therefore, it is essential to find incentives, grants, or equitable access to financing options, such as on-bill financing, that support small businesses in implementing energy-efficient technologies. Additionally, outreach and education programs can help raise awareness about the benefits of decarbonization and provide guidance on available resources.
+
+[Figure: Community Benefits Plans
+Type: Image
+
+Description:
+A sidebar callout describing Community Benefits Plans (CBPs) and their role in building decarbonization projects.
+
+Key Elements:
+- Document type → Guidance resource
+- Source → Rocky Mountain Institute (Draklellis and Richardson 2023)
+- Definition → Community benefits plans (CBPs) document priorities set by local community organizations and leaders where renovation projects occur, including how the renovation might affect the community
+- Topics addressed → Workforce development, job creation, housing availability and affordability
+- Owner responsibility → Within the CBP, building owners respond to the documented priorities and how the retrofits will consider them
+- Guidance location → Rocky Mountain Institute provides guidance on their webpage around developing CBPs, including their purpose and sample content (Draklellis and Richardson 2023)]
+
+In multifamily buildings, equity and affordability considerations are closely tied to the well-being of occupants. Decarbonization strategies should aim to improve indoor air quality, thermal comfort, and overall living conditions while reducing carbon emissions. Low-income households often face higher energy burdens, so it is important to implement cost-effective solutions that reduce utility bills and promote energy efficiency. Incentives and programs for affordable housing can support the adoption of energy-efficient appliances, insulation, and renewable energy systems. Collaborating with community organizations, housing authorities, and local energy efficiency programs can help ensure that decarbonization efforts prioritize the needs of low-income residents.
+
+[Figure: CASE STUDY: 47 Seventy Apartments, Utah
+Type: Image
+
+Description:
+A callout box referencing Case Study 9 for 47 Seventy Apartments in the Salt Lake City area, Utah, illustrated with building and residential icons.
+
+Key Elements:
+- Case Study number → 9
+- Location → 47 Seventy Apartments, Salt Lake City area (Taylorsville), UT
+- Building type → Naturally occurring affordable housing
+- Retrofit scope → LED and HVAC retrofits
+- Financing → Over half of the project cost was offset by local energy efficiency program rebates; remainder covered by the property owner
+- Outcome → The property owner will realize an increase in value of their property based on the project upgrades and more comfortable and healthy apartments]
+
+### 4.9.1 Disadvantaged Communities
+
+Decarbonization initiatives within disadvantaged communities face several barriers that can hinder progress toward sustainable outcomes. In addition to the up-front cost associated with implementing decarbonization measures, some communities may be at risk for building upgrades resulting in higher rent, displacing businesses and residents from their communities. Working with local equity officers, housing authorities, community-based organizations, etc., can help building owners understand and respond to community impacts. Additional incentives may be available to limit capital costs to keep rents stable. In some instances, tenant protections are required to avoid increased rent, eviction, or displacement during and after the renovation.
+
+[Figure: DOE Climate and Economic Justice Screening Tool
+Type: Image
+
+Description:
+A sidebar callout describing the DOE Climate and Economic Justice Screening Tool (CEJST), illustrated with a screenshot of the tool's interactive map interface showing the United States.
+
+Key Elements:
+- Tool name → Climate and Economic Justice Screening Tool (CEJST)
+- Publisher → U.S. Department of Energy (DOE 2023o)
+- Scale → Nationwide; identifies approximately 27,251 census tracts as disadvantaged
+- Criteria → A census tract is marked as disadvantaged if it meets the threshold for: (1) environmental, climate, or other burdens AND (2) an associated socioeconomic burden; additionally, a census tract completely surrounded by disadvantaged communities and at or above the 50th percentile for low income is also considered disadvantaged
+- Interface → Interactive tool searchable to indicate disadvantaged communities throughout the United States (DOE 2023o)]
+
+Another barrier is the limited outreach and educational resources available to disadvantaged communities. Residents may have limited access to information about the benefits of sustainable technologies and the incentives and opportunities that exist. This lack of awareness and understanding can hinder engagement and stakeholder participation in decarbonization initiatives. Connecting with stakeholders through community-based organizations, community leaders, and community social programs may help building owners and project teams gain trust and the engagement needed for a successful renovation.
+
+The Department of Energy has created indicators to evaluate communities and determine if they qualify as disadvantaged. The indicators are grouped into eight categories of burden, including climate change, energy, health, housing, legacy pollution, transportation, water and wastewater, and workforce development. Meeting the indicator requirements in any of the eight categories will qualify the community as disadvantaged.
+
+[Table: Table 4.2 DOE Climate and Economic Justice Screening Tool Indicators
+Type: Table
+
+Data:
+| Category | Criteria |
+|---|---|
+| Climate Change | >=90th percentile for at least one of these: Expected agricultural loss rate; Expected building loss rate; Expected population loss rate; Projected flood risk; Projected wildlife risk AND >= 65th percentile for low income |
+| Legacy Pollution | Have at least one abandoned mine, or Formerly used defense sites; >=90th percentile for at least one of these: Proximity to hazardous waste facilities; Proximity to superfund sites; Priorities list; Proximity to risk management plan facilities AND >= 65th percentile for low income |
+| Energy | >=90th percentile for at least one of these: energy cost; PM2.5 in the air AND >= 65th percentile for low income |
+| Transportation | >=90th percentile for at least one of these: Diesel particulate matter exposure; Transportation barrier; Traffic proximity and volume AND >= 65th percentile for low income |
+| Health | >=90th percentile for at least one of these: Asthma; Diabetes; Heart disease; Low life expectancy AND >= 65th percentile for low income |
+| Water and Wastewater | >=90th percentile for at least one of these: Underground storage tanks and releases; Wastewater discharge AND >= 65th percentile for low income |
+| Housing | Experienced historic underinvestment (redlined) OR >=90th percentile for at least one of these: Housing cost; Lack of green space; Lack of indoor plumbing; Lead AND >= 65th percentile for low income |
+| Workforce Development | >=90th percentile for at least one of these: Linguistic isolation; Low median income; Poverty; Unemployment AND < 10% people older than 25 have a high school diploma |
+
+Notes: Table Source: DOE (2023o)]
+
+[Figure: White House Justice40 Initiative
+Type: Image
+
+Description:
+A sidebar callout describing the White House Justice40 Initiative, illustrated with the Justice40 Initiative Environmental Justice Fact Sheet from DOE Energy.
+
+Key Elements:
+- Initiative name → Justice40 Initiative
+- Origin → Created under the Biden-Harris Administration
+- Goal → Establishes the goal that 40% of the overall benefits of certain federal investments flow to disadvantaged communities (DACs)
+- Scope → Applies to over 145 Department of Energy (DOE) programs and much of the $62 billion investment in DOE under the Bipartisan Infrastructure Law
+- DOE commitment → To ensure an equitable transition to clean energy and to avoid further harm to communities with environmental justice concerns, the DOE is focused on ensuring that every project that receives funding through a DOE Justice40 covered program adheres to the principles of environmental justice (DOE 2023o)]
+
+### 4.9.2 Policies and Programs
+
+Policies and programs at the local, state, and federal levels can be an aid for facilitating decarbonization within disadvantaged communities. These initiatives provide support, funding, and incentives to promote sustainable practices and address the unique challenges faced by these communities. One example is the Low-Income Weatherization Assistance Program (LIWAP), a federally funded initiative that assists low-income households in improving energy efficiency through weatherization upgrades. LIWAP grants enable the implementation of measures including insulation, air sealing, and HVAC system improvements, which help to reduce energy costs and alleviate burdens on vulnerable populations.
+
+Community solar programs are another effective policy approach that allows residents, including those in low-income communities, to benefit from solar energy. These programs enable individuals to subscribe to a shared solar project and receive credits on their electricity bills, eliminating the need for individual solar installations and promoting equitable access to renewable energy.
+
+Additionally, grants provided by the Environmental Protection Agency (EPA) support environmental justice initiatives in communities disproportionately affected by pollution. These grants fund projects that aim to reduce environmental impacts and improve public health while fostering community engagement and capacity building. Many utility companies and state agencies offer energy efficiency assistance programs, which provide free or subsidized energy audits, upgrades, and education to low-income households. These programs empower residents to reduce energy consumption, lower utility bills, and improve comfort, all while addressing equity and affordability concerns.
+
+## 4.10 Building Owner Type
+
+Depending on the ownership/occupancy structure of a building, the economic beneficiaries of decarbonization projects will differ. A common hurdle for implementing decarbonization measures in leased buildings is a "split incentive" problem. A split incentive occurs when a building owner pays the up-front costs of energy efficiency measures, yet the tenant(s)—not the building owner—benefit from the upgrades. Table 4.3 presents various ownership/occupancy structures detailing whether the owner or tenant is responsible for paying expenses and capital costs and indicating whether the lease structure may result in a split incentive.
+
+[Table: Table 4.3 Commercial Lease Types and Split Incentives
+Type: Table
+
+Data:
+| Lease Type | Who Pays Expenses | Who Pays Capital Costs | Split Incentive? |
+|---|---|---|---|
+| Gross Lease | Owner | Owner | No |
+| Triple-Net Lease | Tenant | Tenant | No |
+| Multi-Tenant Office Net Lease | Tenant | Owner | Yes |
+| Modified Gross Lease | Owner and Tenant | Owner | Yes |
+
+Notes: Table Source: Urban Green, PlaNYC and NRDC's Energy Aligned Clause (NYC Government 2023).]
+
+### 4.10.1 Building Owner Occupied
+
+Building-owner-occupied buildings can be more attractive for decarbonization retrofits because the owner benefits directly from building improvements. In addition, how they operate and maintain the building has a direct impact on the utility bills, operating and maintenance costs, and energy consumption/emissions generation. The following benefits should be considered when selecting EEMs/ERMs in owner-occupied buildings:
+
+**Cost Savings.** Decarbonizing and improving the energy efficiency of the building can result in significant cost savings. Lower utility bills can directly affect the owner's bottom line, reducing operating expenses and increasing profitability. Additionally, energy-efficient systems and equipment often have lower maintenance and replacement costs, leading to long-term financial benefits.
+
+**Energy Use Intensity (EUI) Reduction.** The building owner's operating and maintenance practices directly influence the building's energy use intensity (EUI). By adopting energy-conscious behaviors and implementing energy-efficient measures, owners can significantly reduce their building's EUI, which measures the energy consumption per square foot. Lower EUI values indicate a more efficient and sustainable building, positively influencing its environmental footprint. Lower consumption can also prepare buildings to meet future regulations and local ordinances.
+
+**Enhanced Comfort and Productivity.** A decarbonized building can provide a more comfortable and healthier indoor environment for occupants. Improved insulation, efficient HVAC systems, and advanced controls can regulate temperature, humidity, and air quality, promoting occupant comfort and well-being. Increased comfort can enhance productivity, employee satisfaction, and overall building performance.
+
+**Building Value and Marketability.** Decarbonization retrofits can enhance the market value and marketability of owner-occupied buildings. Energy-efficient and sustainable features are increasingly sought after by tenants, buyers, and investors. Buildings with lower operating costs, reduced environmental impact, and improved indoor environmental quality can command higher rents, attract quality tenants, and have a competitive advantage in the market.
+
+[Figure: Figure 4.1 Urban Land Institute's Business Case for Electrifying
+Type: Descriptive Diagram
+
+Description:
+A quadrant-style infographic titled "Business Case for Electrifying," published by the Urban Land Institute (ULI) Greenprint, showing four categories of benefits arranged around a central cityscape illustration with buildings, a crane, and greenery. Image credit: Pierce et al. (2021).
+
+Key Elements:
+- Financial Benefits → Saving construction costs; Optimizing retrofit timing; Lowering operational energy costs
+- Impending Regulations → Complying with "gas ban" policies; Preparing for future sustainability requirements
+- Technical Benefits → Driving energy efficiency; Optimizing smart building grid-interconnectivity
+- Environmental Benefits → Achieving corporate decarbonization and net-zero goals; Supporting tenant sustainability goals; Improving health and safety
+
+Image credit: Pierce et al. (2021)]
+
+To fully capitalize on the benefits of decarbonization, building owners should consider their role in operating and maintaining the building. Implementing energy-management practices—such as regular equipment maintenance, optimizing control settings, and engaging occupants in energy-saving initiatives—has a direct impact on utility bills, operating and maintenance costs, and overall energy usage. By actively managing and maintaining the building's energy systems, owners can optimize performance, ensure long-term sustainability, and achieve the maximum return on their decarbonization investments.
+
+### 4.10.2 Leased Buildings
+
+As shown in Table 4.3, which outlines different lease types on the market, utilities are commonly paid directly or indirectly by tenants while the owners/landlords pay for capital improvements. The resulting split incentive can hinder building owners from implementing building upgrades, including decarbonization measures, which in turn can negatively affect tenants, burdening them with higher utility costs and, in some cases, less healthy environments; this is particularly a problem in low-income communities. In leased buildings, stakeholder engagement and outreach should be used to understand potential benefits of decarbonization upgrades for tenants. Improved indoor air quality, comfort, the ability to market their occupancy in a decarbonized building, etc., should all be documented and considered during EEM/ERM selection.
+
+[Figure: Urban Land Institute's Electrify: The Movement to All-Electric Real Estate
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the Urban Land Institute (ULI) Greenprint Center for Building Performance report titled "Electrify: The Movement to All-Electric Real Estate" by Pierce et al. (2021).
+
+Key Elements:
+- Document title → "Electrify: The Movement to All-Electric Real Estate"
+- Publisher → Urban Land Institute (ULI) Greenprint Center for Building Performance (Pierce et al. 2021)
+- Purpose → Shows how the commercial real estate industry can shift toward a decarbonized future by moving to all-electric buildings and highlights the importance of why real estate firms need to be aware of the movement
+- Key findings → Electrification across new and existing buildings is improving real estate's bottom line, future-proofing portfolios, attracting high-quality tenants, lowering building emissions, and improving the health and safety of building occupants]
+
+[Figure: Green Lease Leaders' Reference Guides for Landlords and Tenants
+Type: Image
+
+Description:
+A sidebar callout showing the covers of the Green Lease Leaders Reference Guide for Landlords and Reference Guide for Tenants, developed by IMT (Institute for Market Transformation).
+
+Key Elements:
+- Document titles → "Green Lease Leaders Reference Guide for Landlords" and "Green Lease Leaders Reference Guide for Tenants"
+- Developer → IMT (Institute for Market Transformation) (IMT 2022a and 2022b)
+- Purpose → Provides guidance for landlords and tenants on how to comply with and implement green leasing standards to achieve recognition as a Green Lease Leader
+- Topics covered → Cost-recovery clauses, energy-management best practices, sample lease clauses, case studies, and recorded trainings
+- Note → Even if not pursuing the Green Lease Leader recognition, building owners may find the guides useful if looking to implement green leasing practices across their portfolios]
+
 # Chapter 5: Decarbonization Strategies and Technologies: Building Electrical, Heating and Cooling Load Reduction
 
 The first steps in the framework for decarbonization projects are identifying opportunities to reduce building electrical loads and heating and cooling loads. Existing buildings typically have limited electrical capacity, and electrical load reductions may help avoid costly electrical upgrades otherwise needed to make HVAC and DHW electrification options achievable. Building heating and cooling load reductions through envelope upgrades and HVAC heat recovery strategies can help reduce the required capacity of electrified HVAC equipment to fit within existing building spaces or reduce space and weight on roofs.
