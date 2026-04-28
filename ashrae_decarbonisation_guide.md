@@ -1682,3 +1682,407 @@ Key Elements:
 - Publisher → Apartment and Office Building Association of Metropolitan Washington Educational Foundation (AOBA 2023)
 - Purpose → Outlines the critical role operations and maintenance play in increasing energy efficiency and adding value for property owners and their portfolios (AOBA 2023). Readers will learn key strategies for building an internal culture that promotes efficiency; addressing reactive, proactive, and predictive maintenance; and examining the whole building as well as key building components for energy efficiency opportunities.
 - Intended use → Meant to be used as the basis for creating manuals tailored to individual facilities or companies.]
+
+# Chapter 5: Decarbonization Strategies and Technologies: Building Electrical, Heating and Cooling Load Reduction
+
+The first steps in the framework for decarbonization projects are identifying opportunities to reduce building electrical loads and heating and cooling loads. Existing buildings typically have limited electrical capacity, and electrical load reductions may help avoid costly electrical upgrades otherwise needed to make HVAC and DHW electrification options achievable. Building heating and cooling load reductions through envelope upgrades and HVAC heat recovery strategies can help reduce the required capacity of electrified HVAC equipment to fit within existing building spaces or reduce space and weight on roofs.
+
+## 5.1 Electrical Load Reduction
+
+Strategies and technologies that optimize energy usage and minimize electrical loads in buildings for lighting and plug loads have traditionally been core components of energy efficiency projects. While these strategies still provide attractive energy savings, they are also key strategies for reducing building electrical loads to make additional electrical capacity available for HVAC electrification equipment in existing buildings that do not have excess capacity.
+
+## 5.1.1 Building Lighting Systems
+
+Building lighting systems have a big impact on the electrical load of a building and influence the heating and cooling loads. Retrofitting with energy-efficient lighting fixtures and advanced controls can reduce the electrical load and provide reductions in GHG emissions through reduced energy consumption.
+
+The lighting system types covered in this section include interior lighting, exterior lighting, lighting controls, and daylighting. High-efficiency lighting, such as LED lamps and fixtures, can reduce energy consumption and carbon emissions, especially those with high efficacy ratings and U.S. EPA ENERGY STAR® certifications.
+
+Lighting controls can be achieved via dimmers, timers, or sensors that automatically turn lights on/off or reduce levels based on need. The most common sensor technologies are occupancy, motion, daylight, and photosensor. While occupancy, motion, and daylight sensors are commonly used for interior lighting controls, photosensors can be used for exterior lighting controls. When it comes to daylight controls, it should be noted that low-e windows, which play a critical role in reducing cooling load by lowering solar gain, can also be tuned to control visible daylight transmittance.
+
+[Figure: LED Troffer Retrofit Lighting and Controls: Best Practices
+Type: Image
+
+Description:
+A sidebar callout showing the DOE Better Buildings application guide on LED troffer retrofit lighting and controls, featuring the Better Buildings logo from the U.S. Department of Energy.
+
+Key Elements:
+- Document title → "LED Troffer Retrofit Lighting and Controls: Best Practices"
+- Publisher → U.S. Department of Energy (DOE 2022a), Better Buildings program
+- Purpose → Provides a detailed discussion of options for retrofitting troffer lighting with LED and TLED systems
+- Key contents → Lists pros and cons for different retrofit approaches and key considerations for different types (DOE 2022a).]
+
+### 5.1.1.1 Interior and Exterior Lighting
+
+A building's interior lighting can consume a significant amount of energy and create considerable heat within the conditioned space. Maintaining an appropriate lighting level depending on occupant needs is critical to ensuring a low carbon footprint while maintaining occupant comfort. Choosing lighting fixtures and bulbs that carry the ENERGY STAR label ensures that retrofits meet strict energy-efficiency standards that reduce energy consumption.
+
+[Figure: Lighting Retrofit and Relighting: A Guide to Green Lighting Solutions
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the guide *Lighting Retrofit and Relighting: A Guide to Green Lighting Solutions* (Benya and Leban 2011).
+
+Key Elements:
+- Document title → "Lighting Retrofit and Relighting: A Guide to Green Lighting Solutions"
+- Authors → Benya and Leban (2011)
+- Purpose → Covers technologies for interior and exterior lighting retrofits and controls
+- Key contents → Provides details on conducting lighting audits and lighting retrofit financial analyses (Benya and Leban 2011).]
+
+**LED Lighting.** Transitioning from incandescent or fluorescent lighting to energy-efficient LED lighting offers a significant reduction in the electrical load. For interior lighting, due to emitting very little heat to the space, LED fixtures reduce the cooling load considerably. However, this results in increases in the heating load that must be accounted for when sizing heat pumps for HVAC electrification retrofits.
+
+**Task Lighting.** Providing localized lighting sources in areas where specific tasks are performed, such as desks, workstations, or reading areas, allows for lower ambient lighting levels and can reduce the overall electrical load of the lighting system.
+
+**Bi-Level Switching.** Dividing the lighting fixtures into two or more circuits allows for independent control of light levels, which provides the option to operate only a portion of the fixtures when maximum lighting levels are not necessary.
+
+**Skylights and Solar Tubes.** Providing daylighting through skylights and solar tubes, when paired with daylight controls, reduces the need for electric lighting during daytime hours.
+
+[Figure: FGIA Skylight Selection and Daylighting Design Guide
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the FGIA Skylight Selection and Daylighting Design Guide (FGIA 2020), published by the Fenestration & Glazing Industry Alliance.
+
+Key Elements:
+- Document title → "FGIA Skylight Selection and Daylighting Design Guide"
+- Publisher → Fenestration & Glazing Industry Alliance (FGIA 2020)
+- Purpose → Provides design criteria and considerations for skylights and top-lit daylighting design (FGIA 2020)
+- Key contents → Features and performance characteristics for skylight selection.]
+
+Encouraging and influencing the adoption of sustainable occupant behaviors and operational procedures, such as conserving power by turning off lights, will have an even greater impact on decarbonization.
+
+### 5.1.1.2 Lighting Controls
+
+Lighting control upgrades reduce building electrical demand when occupancy/task variations and daylight availability are considered. Lighting control requires utilizing dimmers, timers, and automatic controls via occupancy, motion sensors, photosensors, and daylighting sensors. Advanced lighting controls provide significant additional electrical savings beyond savings from LED retrofits. The General Services Administration (GSA), in a study conducted by Pacific Northwest National Laboratory (PNNL), found that after conversion to LED, light level tuning and occupancy sensing reduced lighting energy by an additional 43% (GSA 2018).
+
+**Occupancy Sensors.** Turn on/off lights or reduce light levels based on the occupancy status of the space.
+
+**Timers.** Turn lights on/off based on a specific schedule, which can be controlled either manually or electronically through a BAS.
+
+**Photosensors.** Sense ambient light conditions to keep the lights off during daylight hours. Commonly used for exterior lighting.
+
+**Daylighting Sensors.** Adjust artificial lighting levels based on available natural light while maintaining desired illumination levels. Daylighting systems can be programmed to maximize daylighting at times when grid emissions are dirtiest and can scale back to allow more electric lighting when grid emissions are cleaner to reduce electrical load and contribute to overall decarbonization goals.
+
+[Figure: ANSI/IES LP-3-20+E1 Lighting Practice: Designing and Specifying Daylighting for Buildings
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the ANSI/IES standard LP-3-20+E1, *Lighting Practice: Designing and Specifying Daylighting for Buildings* (IES 2020c), published by the Illuminating Engineering Society.
+
+Key Elements:
+- Document title → "ANSI/IES LP-3-20+E1 Lighting Practice: Designing and Specifying Daylighting for Buildings"
+- Publisher → Illuminating Engineering Society (IES 2020c)
+- Purpose → Offers guidelines and discussion for the design and performance of daylighting systems (IES 2020c)
+- Key contents → Topics related to fenestrations and glazing, lighting systems, and lighting controls for daylighting purposes.]
+
+Additionally, integrating lighting controls with building automation systems (BAS) allows further demand reduction. This integration enables coordinated control strategies, such as turning off lights in unoccupied areas when the HVAC system enters an energy-saving mode or adjusting lighting levels based on real-time occupancy data.
+
+**CASE STUDY: McMullen County Courthouse, Texas**
+
+Lighting and window retrofits reduced the McMullen County Courthouse's cooling load, and an assessment determined the aging heat pump units to be oversized. This case provides an opportunity to rightsize the HVAC system for the new building cooling loads.
+
+[Figure: DOE Grid-Interactive Efficient Buildings Technical Report Series: Lighting and Electronics
+Type: Image
+
+Description:
+A sidebar callout showing the cover of the DOE Grid-Interactive Efficient Buildings Technical Report on Lighting and Electronics (Nubbe and Yamada 2019), published under the U.S. Department of Energy.
+
+Key Elements:
+- Document title → "Grid-Interactive Efficient Buildings Technical Report Series: Lighting and Electronics"
+- Authors → Nubbe and Yamada (2019)
+- Publisher → U.S. Department of Energy
+- Purpose → Part of a larger series exploring different building systems' capabilities for grid interactivity
+- Key contents → Focuses on building lighting systems and other consumer electronics, including the current state and evaluation of technologies for grid interactivity (Nubbe and Yamada 2019).]
+
+## 5.1.2 Multifamily Kitchen Appliances and Cooking Systems
+
+ENERGY STAR–rated appliances are recommended when replacing existing appliances. ENERGY STAR–certified kitchen appliances, such as refrigerators, dishwashers, and microwaves, are designed to use less energy while maintaining good performance.
+
+Decarbonizing cooking kitchen appliances and cooking systems is an important aspect of retrofitting existing multifamily buildings. While it will not reduce electrical load, switching from gas stoves to electric induction cooktops, which use magnetic fields to directly heat the cookware, can provide significant GHG emissions reductions across a multifamily property. Similarly, replacing gas ovens with electric convection ovens further reduces GHG emissions from cooking in multifamily properties.
+
+## 5.1.3 Other Systems and Plug Loads
+
+Other systems for energy efficiency are detailed in Table 5.1:
+
+[Table: Table 5.1 Other Electric Load-Reduction Strategies
+Type: Table
+
+Data:
+| System | Description | Considerations | Resources |
+|---|---|---|---|
+| Laundry and Clothes-Drying Systems | Heat pump dryers and ENERGY STAR–certified washers provide energy-efficiency improvements for laundry systems. Heat pump clothes dryers operate similarly to ASHPs, extracting heat from the surrounding air to dry clothes. | Higher up-front cost; Longer drying cycles; Generally larger due to additional components for heat pump technology; Increased electrical load if switching from natural gas dryer; No vent required for dryer, condensation-based drying | ENERGY STAR: Heat Pump Dryer (EPA n.d.-a) |
+| Pools, Spas, and Hot Tubs | Solar pool heaters are a clean energy solution that can also reduce electrical load. They capture energy from the sun to heat circulating pool or hot tub water. Heat pump pool heaters are another efficient solution for heating pools and hot tubs. | Good for maintaining pool temperature; Heat pump pool heater will increase electrical load if switching from natural gas heater | Energy Saver: Solar Swimming Pool Heaters (DOE 2023m) |
+| Ice and Vending Machines | Control strategies to reduce or eliminate operating hours for ice and vending machines when not needed can reduce electrical demand. Load-shedding strategies can be used to manage vending machine energy demand. Smart controllers turn machines off during peak demand periods without affecting the products' quality or service. Upgrading to energy-efficient ice and vending machines that are ENERGY STAR certified also contributes to reducing electrical demand. | Simple retrofit options; May represent significant electrical load reduction depending on number of machines/systems | — |
+| Computers and Electronics | Load shifting can be applied to computers and electronics by scheduling updates, data backups, and resource-intensive tasks to occur during off-peak hours. Power management software can automatically control and adjust the power settings of computers and peripherals based on occupancy or usage patterns. Occupancy sensors and timers can be used to turn off or dim lights and monitors when spaces are unoccupied for a certain period. | Simple retrofit options; May represent significant electric load reduction depending on number of machines/systems | Grid-Interactive Efficient Buildings Technical Report Series: Lighting and Electronics (Nubbe and Yamada 2019) |
+| Other Plug and Process Loads | Strategies for plug load reduction involve the use of power-saving modes, sleep settings, and smart power management technologies. Integrating occupancy sensors and advanced controls allows for automatic power-down or reduced energy consumption when areas are unoccupied. An emerging opportunity with appliances and plug loads lies with grid-interactive controls. Because many plug loads are often sitting idle, they are prime candidates for adjusting to control a building's electric demand in response to the local grid. | Stand-alone controllers are typically a simple retrofit; Grid-interactive smart controls may have high first cost and are best applied to a variety of building systems to be most effective (not just plug loads); Available electric load reduction depends upon number of systems | Assessing and Reducing Plug and Process Loads in Office Buildings (NREL 2020a); Assessing and Reducing Plug and Process Loads in Retail Buildings (NREL 2020b); NREL/TP-5500-74080, Integrating Smart Plug and Process Load Controls into Energy Management Information System Platforms: A Landscaping Study (Langer and Trenbath 2019) |
+| Circuit Sharing Devices | Circuit sharing devices manage the multiple end uses on a given circuit so that the circuit is not overloaded. These devices are installed after the circuit breaker and switch between loads. | Effectively expand electrical capacity without requiring full-panel upgrades; Best to connect loads that do not operate on the same schedule or that can be interrupted without consequence; Current products most suitable for multifamily applications | — |
+| Smart Panels | Smart panels provide similar operation at the panel level, shedding loads to manage the panel's overall electrical load. For example, a panel with HVAC equipment and EV charging may be programmed to shed EV charging during peak heating or cooling to serve the HVAC loads. | Performed as an electrical panel upgrade; Higher first cost than conventional electrical panel; Expand electrical capacity for end uses that may avoid other electrical service upgrades | — |
+
+Notes: Table 5.1 continued from above.]
+
+## 5.2 Heating/Cooling Load Reduction: Building Envelope and Passive Systems
+
+Building envelope changes such as window, roof, and insulation upgrades may have less attractive paybacks for energy efficiency projects, but the attributed load reductions for these measures can make HVAC electrification options more attractive in decarbonization retrofits. Strategies for reducing building heating and cooling loads contribute to reducing the needed capacity of heat pump and HVAC electrification equipment. These reductions in required heat pump capacity—along with associated size, weight, and electrical load—can be important steps for decarbonization retrofits that have space, weight, and/or electrical capacity constraints for new equipment.
+
+## 5.2.1 Building Envelope
+
+For buildings whose heating and cooling loads are driven by outdoor conditions, the building envelope is one of the first lines of defense against reducing the size and operation of the HVAC systems. Equally important are reducing ventilation loads, which is covered in Section 5.2.3.4. However, envelope measures typically have longer payback periods due to relatively higher implementation costs and lower energy cost savings.
+
+Through the lens of decarbonization, existing buildings with low-performing envelopes should evaluate improving the envelope not just as an energy efficiency component, but as a component to lower heating and cooling loads that contribute to the ability to downsize heat pump equipment as part of a decarbonization retrofit package. Contributing to smaller sized heat pump equipment also reduces electrical load where existing electrical capacity may be a concern. Reducing the size, and weight, of heat pump equipment can be a critical strategy where space and weight constraints are a concern.
+
+Common envelope improvement measures for existing buildings include installing exterior wall and roof insulation, adding window shades, minimizing the impact of thermal bridging, weatherization, upgrading windows, adding a reflective roof, and potentially incorporating the addition of PV panel (i.e., shading) upgrades.
+
+As building envelopes become more airtight, particulates and contaminants are sealed within the building, resulting in unsatisfactory indoor air quality. Ventilation systems should be matched to occupant loads, and additional ventilation may be necessary to make up for reduced infiltration from air sealing and envelope improvements. Ventilation strategies are discussed further in Section 5.2.3.4.
+
+[Figure: BE-Ex Solution Package: Building Envelope
+Type: Image
+
+Description:
+A sidebar callout showing the cover and description of the Building Energy Exchange (Be-Ex) Solution Package guide on building envelopes (BE-Ex 2023c), published by the Be-Ex building decarbonization hub for New York City.
+
+Key Elements:
+- Document title → "BE-Ex Solution Package: Building Envelope"
+- Publisher → Building Energy Exchange (Be-Ex 2023c)
+- Context → Part of a larger group of six documents compiled from the Anatomy of an Energy Efficient Building exhibition at the BE-Ex resource center in New York City
+- Purpose → Short guide to efficient building envelope solutions.]
+
+### 5.2.1.1 Insulation and Thermal Bridging
+
+Enhancing insulation levels in walls, roofs, and floors helps improve energy efficiency by reducing heat transfer and minimizing the need for heating and cooling. Minimizing or eliminating thermal bridges through techniques like installing thermal breaks or continuous insulation helps maintain a more efficient building envelope. A challenge for existing building retrofits can be adding insulation and addressing thermal bridging with minimal disruption to existing facades (interior and exterior).
+
+Exterior insulation and finish system (EIFS) panels can be a good retrofit option for adding insulation and addressing thermal bridging in existing buildings. As the name implies, EIFS are installed from the exterior of the building and avoid removing interior finishes and surfaces. Exterior insulation makes EIFS less disruptive to building occupants and can be more cost effective than altering interior surfaces. The case study for the Heritage below provides an example where two multifamily towers are retrofitted with EIFS panels as part of a larger decarbonization retrofit. The EIFS panels reduce heating and cooling loads for the towers as a key step toward future heat pump upgrades for the units' electric baseboard heaters and sleeve AC systems.
+
+[Figure: Figure 5.1 Typical EIFS Detail
+Type: Descriptive Diagram
+
+Description:
+A cutaway cross-section diagram illustrating the typical layer composition of an exterior insulation and finish system (EIFS) applied to an exterior wall assembly. The layers are shown from the structural wall outward, each labelled. Image credit: NORESCO.
+
+Key Elements:
+- Substrate → innermost structural layer of the wall
+- Adhesive → bonding layer applied to the substrate surface
+- Drainage Plane → layer providing a drainage path for moisture
+- Insulation Board → continuous exterior insulation layer that eliminates thermal bridging
+- Reinforcing Mesh → embedded mesh layer for structural reinforcement of the finish system
+- Base Coat → first finish coat applied over the reinforcing mesh
+- Primer → intermediate coating layer
+- Finish Coat → outermost decorative and weather-resistant layer]
+
+Prefabricated panels are another option for insulating existing buildings. Similar to EIFS, prefabricated panels can be installed on the exterior of the building, reducing the disruption to building occupants. Prefabricated panels also include the benefits of incorporating windows, mechanical equipment cutouts, and electrical systems with an exterior cladding and weatherproof seals.
+
+**CASE STUDY: The Heritage, New York**
+
+The case study for the Heritage provides an example of an EIFS and insulated panel retrofit. One of the buildings in the portfolio is retrofitted with prefabricated panels that include insulation and new, more efficient windows. The remaining two towers in the portfolio are retrofitted with EIFS. For this particular retrofit project, the PTAC units are being replaced with PTHP units, and the panelized construction provides new cutouts sized for the PTHP and integrated electrical for supporting the PTHP units, thereby paving the path for future upgrades that may require additional electrical capacity.
+
+### 5.2.1.2 Air Sealing
+
+Sealing air leaks through gaps or cracks in the building envelope and at fenestration seals is another key strategy for reducing the building's heat loss or gain and enhances the operation of HVAC systems.
+
+A comprehensive building air leakage assessment, such as a blower door test, can help pinpoint areas of air leakage and guide air-sealing efforts. Sealing air leaks can be achieved through various techniques such as caulking, weatherstripping, and using appropriate sealants or gaskets.
+
+Air sealing the HVAC ducting also improves the heating and cooling performance for HVAC systems. Sealing leaks in ductwork contained in ceilings and walls ensures that the conditioned air is delivered to the space rather than being lost. Aeroseal sealing technology is one solution that can be used for retrofit projects and provides a unique method for sealing ducts and envelopes.
+
+Depending on the age of the building and ductwork, sealing leaks may represent a significant reduction in heat loss that can contribute to reducing the required size of heat pumps to condition spaces. At minimum, a visual inspection should be performed to estimate how well (or poorly) the supply air system has been sealed. It is not uncommon for older fans to have significant leakage at their flexible canvas connections. If significant leakage is suspected anywhere in the system, hiring a test-and-balance (TAB) contractor to estimate system duct system (and air control damper) leakage could be money well spent.
+
+### 5.2.1.3 Window Replacement, Shading, and Films
+
+Upgrading windows to high-performance, energy-efficient models with a low U-factor can significantly improve thermal insulation, reducing heat transfer through glazing and better maintaining consistent indoor temperatures, thereby reducing heating and cooling loads. Double or triple glazing, low-emissivity (low-e) coatings, and gas fills between panes enhance insulation properties while still allowing for natural light transmission. Where full window replacement is challenging or costly, there are several more cost-effective options for retrofits:
+
+- Adding secondary glazing to the interior or exterior of existing windows improves the window performance and can decrease infiltration.
+- Insulated glass unit replacements require replacing only the glazing and not the window frame.
+- Low-e films reflect infrared heat back into the building during the heating season and reduce heat gain in the cooling season. When applying low-e films, the solar heat gain coefficient (SHGC) needs to be selected properly based on the climate zone specifics to reduce the cooling or heating loads, respectively.
+
+Shading devices such as awnings, overhangs, fins, and exterior blinds help block direct sunlight and reduce solar heat gain and glare. When strategically designed based on sun position throughout the year for the project site and positioned correctly on windows, these devices can provide shade during peak solar exposure (i.e., when the sun is high in the sky), thus reducing cooling loads. Then during the winter, when the sun is lower in the sky, direct sunlight can provide appreciative solar gains and reduce the heating load (for climates with higher heating degree days).
+
+[Figure: Resources: Energy-Efficient Windows
+Type: Image
+
+Description:
+A sidebar callout listing three key reference resources for understanding and evaluating options for energy-efficient windows.
+
+Key Elements:
+- Resource 1 → Carmody, J., and K. Haglund. 2012. *Measure Guideline: Energy-Efficient Window Performance and Selection*. Washington, D.C.: U.S. Department of Energy's Building Technologies Program.
+- Resource 2 → DOE. 2010. *Guide to Energy-Efficient Windows*. Washington, D.C.: U.S. Department of Energy.
+- Resource 3 → EWC. 2011. *Energy-Efficient Windows for Mid- & High-Rise Residential Buildings*. Efficient Windows Collaborative. Greenbelt, MD: Efficient Windows Collaborative.]
+
+**CASE STUDY: McMullen County Courthouse, Texas**
+
+Lighting and window retrofits reduced cooling loads, and an assessment determined that the aging heat pump units are oversized. This provides an opportunity to rightsize the HVAC system for the new building cooling loads.
+
+**CASE STUDY: Ken Soble Tower, Canada**
+
+The case study for Ken Soble Tower provides an example of a retrofit that includes EIFS along with triple-pane window upgrades. These upgrades were made as first steps in a larger retrofit that includes upgrades to space heating and cooling systems.
+
+### 5.2.1.4 Cool and Green Roofs
+
+For cooling-dominated climates, implementing cool roofs can help to reduce solar absorption through the roof and contributes to cooling load reduction. However, implementing a cool roof will increase the heating load in winter months. In climates with moderate to high heating seasons, the impact of a cool roof on heating load will increase the size of heat pump needed and likely negate any benefit during cooling season. Hourly analyses of heating and cooling loads with a cool roof will offer data to determine whether there are benefits to installing a cool roof or whether the negative impacts to heating are prohibitive.
+
+Green roofs, or rooftop gardens, are another option but are likely difficult to implement in a retrofit. The vegetative and soil layer grown on the building roof provides a form of insulation that can help reduce the amount of heat transfer through the roof. In addition, because they include a vegetative layer, green roofs can also provide a form of carbon sequestration within the building structure. When accounting for the carbon life cycle of materials for a green roof system, an extensive green roof can provide a carbon payback between 5.8 and 15.9 years (Kuronuma et al. 2018).
+
+While green roof systems reduce heating and cooling loads, they typically require a significant rooftop surface area to provide effective reductions in heating and cooling loads. They will sacrifice space for rooftop mechanical equipment and renewable energy systems, like PV arrays. As a note, there are integrated solar green roof technologies available that demonstrate enhanced cooling, maximized solar output while providing stormwater retention and detention capabilities. Even still, the trade-off between required roof space and benefits from green roofs typically makes them a lower priority compared to other aspects of a decarbonization retrofit.
+
+In addition, the vegetation, soil, water, and other green roof system components represent an increased structural load on the roof that may require structural upgrades that are cost prohibitive. ASTM E2397 provides the procedure for determining the loads of a green roof for evaluating whether the existing roof structure can support the installation.
+
+[Figure: Green Roof Energy Calculator
+Type: Image
+
+Description:
+A sidebar callout describing the Green Roof Energy Calculator tool developed by researchers at Portland State University, University of Toronto, and Green Roofs for Healthy Cities.
+
+Key Elements:
+- Tool name → Green Roof Energy Calculator
+- Developers → Portland State University, University of Toronto, and Green Roofs for Healthy Cities
+- Purpose → Helps compare the annual energy performance of a building with a green roof against one with either a dark or white roof (Green Roofs for Health Cities n.d.)
+- Inputs → Building location data, square footage, and roof information
+- Output → Estimated amount of energy savings.]
+
+## 5.2.2 Passive Strategies
+
+Passive strategies offer a variety of unique approaches to decarbonizing buildings by reducing reliance on mechanical heating and cooling systems. Table 5.2 lists some potential passive strategies that may be incorporated into a decarbonization retrofit. While these and other passive systems can be applied to retrofitting existing commercial and multifamily buildings, the feasibility and effectiveness of each system may vary depending on the specific building characteristics and requirements.
+
+[Table: Table 5.2 Passive Heating and Cooling Strategies
+Type: Table
+
+Data:
+| System | Description | Considerations | Resources |
+|---|---|---|---|
+| Passive Solar | There are three main types of passive solar systems: direct gain, indirect gain, and isolated gain. Passive solar approaches can include solar porches, sunspaces and greenhouses, wall collectors, thermosiphoning wall panels, and night insulation. | Difficult to incorporate into existing building without changes to facade; Dependent upon building orientation; Best used in cold climates with high number of clear, sunny days; Long payback | Whole Building Design Guide: Passive Solar Heating (Fosdick 2016) |
+| Phase-Change Materials | Phase-change materials (PCMs) are substances that absorb and release heat during phase transitions, such as from solid to liquid and vice versa. Incorporating PCMs into building elements such as walls or ceilings can help regulate indoor temperatures by absorbing excess heat during the day and releasing it at night, reducing the need for mechanical cooling or heating. PCMs can be incorporated into existing buildings during retrofit projects, particularly in walls and ceilings. | Best suited for dry climates with diurnal temperature swings for heat storage and release; Some require careful installation to avoid rupturing PCM packaging; Storage times and operating temperatures vary by manufacturer; May be incorporated into insulation, drywall panels, etc., for retrofit | U.S. Army Corps of Engineers: TechNote 27 Phase-Change Materials (USACE 2016) |
+| Earth Tubes | Earth tubes, also known as earth-air heat exchangers, constitute a passive strategy that use underground pipes to pre-condition incoming air by utilizing the stable temperature of the earth. They are non-electric, passive heating and cooling systems that provide precooling in hot climates and preheating in cold climates, reducing the energy required for mechanical cooling or heating. | Require excavation for installation, resulting in high first cost; Need careful planning and design adjustments to accommodate the underground pipe network and connect it to the existing ventilation system; Best suited for drier climates; Long payback | Natural Resources Canada: Earth to Air Thermal Exchanger (EATEX): Design Principles and Concept Design Tool (NRC 2021) |
+| Wind Catchers | Wind catchers are architectural features that harness natural wind movement to provide passive cooling and ventilation. They can be designed to direct airflow into the building, enhancing natural ventilation and reducing the need for mechanical cooling. | Require suitable wind patterns for effective ventilation; Design should consider factors such as structural stability, wind direction, and obstruction-free airflow; Best for cooling applications in drier climates | "Windcatchers and their Applications in Contemporary Architecture" (Sangdeh and Nasrollahi 2022) |
+| Natural Ventilation | Natural ventilation reduces HVAC loads by utilizing natural air movement through openings such as operable windows, vents, or operable skylights to provide fresh air and remove stale air. Natural ventilation can reduce reliance on mechanical systems, resulting in energy savings. | Depends on building design, fenestrations, climate, and occupant preferences, which might be difficult/impossible to address in retrofits | Natural Ventilation Review and Plan for Design and Analysis Tools (Emmerich et al. 2001); Whole Building Design Guide: Natural Ventilation (Walker 2016a) |
+| Solar Chimney | A unique application of natural ventilation, solar chimneys use solar heat gain to create a stack effect, reducing the need for mechanical cooling. | Most effective in sunny climates with significant temperature variations and are beneficial for buildings with high internal heat gains; Difficult retrofit because of the dependency upon building internal layout to allow sufficient airflow through spaces and out the chimney | Solar Chimney Applications in Buildings for Engineers and Scientists (Shi and Zhang 2023) |
+
+Notes: The feasibility and effectiveness of each passive system may vary depending on specific building characteristics and requirements.]
+
+## 5.2.3 HVAC Optimization
+
+Optimizing HVAC system operation includes various methods to reduce electrical and thermal loads that contribute to available electrical capacity and reduced heating and cooling loads for future electrification of HVAC systems. Optimization strategies include:
+
+- Existing building commissioning (EBCx)
+- Increased efficiency of fan and pump motors
+- HVAC energy recovery
+- Ventilation methods that provide good IAQ and reduce ventilation loads
+- Controls retrofits, including optimized sequences of operation
+
+### 5.2.3.1 Existing Building Commissioning (EBCx)
+
+The existing building commissioning (EBCx) process is used by owners and/or facility decision-makers to match the operation of their facilities and systems to their specific current facility requirements (CFR) and meet applicable jurisdictional requirements. The process establishes facility operation baselines and performance goals and compares existing conditions and operations to post-implementation goals, including decarbonization. EBCx can provide significant improvements in building performance, resulting in improved performance of energy consuming systems and lower GHG emissions. EBCx also consistently provides a quick return on investment. By adjusting/improving current operating control strategies, EBCx is a good early move for decarbonization.
+
+ANSI/ASHRAE Standard 230, *Commissioning Process for Existing Systems and Assemblies*, is an organized, quality-oriented process for planning, assessing, investigating, implementing, verifying, and documenting activities to improve the performance of facilities, systems, and assemblies to meet defined operational requirements and criteria. ASHRAE Standard 230 establishes the minimum requirements for commissioning an existing building while allowing the owner to define the specific scope of work and project budget (ASHRAE 2022b). Supporting technical guidelines for the existing building commissioning process include:
+
+- ASHRAE Guideline 0.2, *Commissioning Process for Existing Systems and Assemblies*, details the commissioning process for generic existing systems and assemblies;
+- ASHRAE Guideline 1.2, *Technical Requirements for the Commissioning Process for Existing HVAC&R Systems and Assemblies*, provides specific HVAC&R technical commissioning information;
+- ASHRAE Guideline 1.3, *Application of the Commissions Process to Building Operation and Maintenance Training*, provides information on training of O&M personnel; and
+- ASHRAE Guideline 1.4, *Preparing Systems Manuals for Facilities*, provides advice on development that applies to all building systems.
+
+[Figure: ASHRAE Guideline 1.2, Technical Requirements for the Commissioning Process for Existing HVAC&R Systems and Assemblies
+Type: Image
+
+Description:
+A sidebar callout showing the cover of ASHRAE Guideline 1.2-2019, *Technical Requirements for the Commissioning Process for Existing HVAC&R Systems and Assemblies*, approved by ASHRAE on January 7, 2019.
+
+Key Elements:
+- Document title → "ASHRAE Guideline 1.2-2019, Technical Requirements for the Commissioning Process for Existing HVAC&R Systems and Assemblies"
+- Approval date → January 7, 2019
+- Publisher → ASHRAE (2019b)
+- Purpose → Outlines requirements for the application of the commissioning process (Cx) described in ASHRAE Guideline 0.2 to existing heating, ventilating, air-conditioning, and refrigerating (HVAC&R) systems and assemblies (ASHRAE 2019b)
+- Update cycle → ASHRAE Guidelines are scheduled to be updated on a five-year cycle.]
+
+These supporting guidelines are closely coordinated with process requirements in both Standard 230 and Guideline 0.2, which can be used together or in any combination to accommodate varying owner requirements. EBCx can, however, be implemented successfully without the supporting technical guidelines.
+
+### 5.2.3.2 Fan and Pump Motor Efficiency
+
+Motor and drive selection is a key to HVAC fan and pump efficiency. Where commercial fans and blowers rely on oversized single-speed motors that have been designed to meet maximum system demand, retrofitting with more efficient motor and drive systems reduces electrical demand. Direct-drive motors, in which fan wheels are connected directly to the motor shaft, are an efficient replacement to traditional belt-driven fans. Belt-driven fans can have between 10% and 30% efficiency loss, whereas direct-drive fans do not suffer power transmission losses (Albers and Ellis 2023).
+
+Replacing less efficient single-speed motor applications with integrated motor and control systems (IMACS) and other power-drive systems (PDS) can reduce electric demand for HVAC motors. Another option is electronically commutated motors (ECM), which combine a brushless motor with on-board electronics that convert AC power to DC for synchronous operation in a compact package. ECMs offer higher efficiency and more precise control over a wide range of speeds than typical AC motors paired with variable-frequency drives. These systems all improve HVAC motor efficiency by better matching motor output to heating and cooling demand. Improved efficiency of AHU fan motors for distributing air reduces the electrical demand of the HVAC system and can contribute to electrical load availability for installing central heat pump equipment serving air-distribution systems.
+
+### 5.2.3.3 HVAC Airside Energy Recovery
+
+HVAC airside energy recovery refers to the capture and reuse of conditioned ventilation air to reduce space cooling or heating loads. Airside energy recovery is common for various HVAC systems, especially those that require large ventilation loads. Heat can be recovered from exhaust air streams, from the heat rejected by the refrigeration cycle, or from waste or process heat. All these systems contribute to electrification, as they reduce heating loads, which can also reduce heating system capacity requirements. In a cooling-dominated climate, heat may be rejected from supply air streams to exhaust air streams, "recovering" cooling for the supply air and reducing the HVAC equipment cooling load. Passive energy-recovery strategies, such as exhaust air energy recovery, are more effective at reducing peak loads than active heat recovery options, such as refrigeration and process heat rejection, which require mechanical system operation and contribute to the building's electrical demand.
+
+[Figure: Figure 5.2 Example of Exhaust Air Heat Recovery
+Type: Descriptive Diagram
+
+Description:
+A cutaway perspective illustration of an energy recovery ventilator unit showing the four airflow paths through the device. The unit is shown with its casing partially open to reveal the internal heat exchange core. Image credit: Transom (ASHRAE 2024a).
+
+Key Elements:
+- Exhaust Air In → warm/conditioned building exhaust air entering the unit on the left side
+- Supply Air In → outdoor fresh air entering the unit on the right side
+- Supply Air Out → pre-conditioned fresh supply air leaving the unit to be delivered to spaces
+- Exhaust Air Out → spent building air leaving the unit to the outdoors
+- Internal heat exchange core → transfers heat (and moisture in ERV systems) between the two airstreams without mixing them]
+
+Energy recovery in WSHP systems is covered in Chapter 6, Section 1.1.3.5, and energy recovery with simultaneous and non-simultaneous heating and cooling using TES is covered in Section 7.5 in Chapter 7.
+
+#### Heat Recovery Ventilators (HRVs)
+
+HRVs recover sensible heat and are characterized by their ability to effectively transfer heat from the exhaust air stream to the supply air stream. Best-practice systems have sensible heat recovery effectiveness levels of 70%–75% or greater and enthalpy recovery effectiveness of over 60% (ASHRAE 2020b). HRVs can use wasted heat from data centers, commercial refrigeration systems, and other constant heat sources within the building to provide an uninterrupted heat source throughout the year. These systems can allow a bypass of the heat recovery device when outdoor air conditions call for free cooling, thereby reducing fan pressure drop losses.
+
+#### Energy-Recovery Ventilators (ERVs)
+
+ERVs recover both sensible and latent heat by transferring heat and moisture between incoming and outgoing air streams to reduce heating and cooling loads. This method is particularly effective in climates with extreme temperatures. ERV systems exchange the energy contained in air that would normally be exhausted out of a building or conditioned space and recover it to preheat or precool the incoming outdoor air. During cooling season, an ERV system precools and dehumidifies the incoming air; during heating season, the system humidifies and preheats the incoming air (Dieckman 2008). ERV systems are HVAC design strategies that help meet ventilation and energy standards, improve indoor air quality, and reduce HVAC loads, all of which contribute to reduced HVAC capacity. ERV systems help to maintain a 40%–50% indoor relative humidity in a variety of conditions (ASHRAE 2020b).
+
+#### Run-Around Coils
+
+Although they are not as common as HRVs or ERVs, run-around coils are another method for energy recovery in HVAC airside systems. Run-around coils allow for energy recovery between air streams that are completely separated from each other. Run-around coil systems can also integrate active heat recovery, such as from refrigeration cycles, for increased heat recovery when outdoor air temperatures are mild. Another design option to improve heat recovery in run-around coil loops is the use of a water-to-water heat pump between the coils, which can increase heat recovery potential through increased ΔT and also potentially latent energy through freezing coils.
+
+#### Heat Recovery in a Retrofit Project
+
+HRVs and ERVs can be installed on existing air handlers during a retrofit, incorporated into replacement units, or installed as stand-alone HRV/ERV units. ERVs are also commonly incorporated into dedicated outdoor air systems (DOAS), whether existing or installed as part of a decarbonization retrofit package such as one employing VRF systems without ventilation. It is also common to replace an old enthalpy wheel with a new one without replacing the entire system.
+
+Energy-recovery retrofits have many benefits, but they also come with the penalty of cost, increased pressure drop, and increased embodied carbon. These retrofits should be modeled for energy recovery potential and associated energy cost and GHG emissions payback. Modeling of ERV retrofits also should evaluate configurations with and without bypasses to determine whether they should be added to the system.
+
+#### Solar Preheating for Ventilation
+
+Distinct from mechanical HVAC airside heat recovery, solar preheating for ventilation air is a passive strategy that captures solar energy to preheat the supply air for building ventilation systems. Solar thermal collectors capture the sun's heat energy to warm the incoming fresh air before it enters the building's ventilation system. Solar preheating is a much less common strategy for retrofits and is most applicable in climates that receive significant amounts of direct sunlight during the heating season.
+
+[Figure: BE-Ex Tech Primer: Dedicated Outdoor Air Systems (DOAS) and Energy Recovery Ventilators (ERV)
+Type: Image
+
+Description:
+A sidebar callout showing the cover and summary of the BE-Ex Tech Primer on Dedicated Outdoor Air Systems (DOAS) and Energy Recovery Ventilators (ERV), published by the Building Energy Exchange (BE-Ex 2021).
+
+Key Elements:
+- Document title → "BE-Ex Tech Primer: Dedicated Outdoor Air Systems (DOAS) and Energy Recovery Ventilators (ERV)"
+- Publisher → Building Energy Exchange, BE-Ex (2021)
+- Audience → Commercial building owners and operators
+- Purpose → Gives an overview for upgrading commercial buildings with a DOAS and ERV system (BE-Ex 2021)
+- Key benefits listed → Reduces GHG emissions; Improves air quality; Reduces heating and cooling loads; Reduces maintenance costs; Reduces utility costs
+- Application → Can be paired with electrified HVAC solutions, such as split systems and VRF systems, that condition spaces independent of ventilation.]
+
+### 5.2.3.4 Ventilation Methods
+
+Ventilation strategies can be used to reduce HVAC heating and cooling loads while maintaining suitable indoor air quality. Building ventilation is critical to the health of building occupants as it controls humidity; reduces indoor air contaminants, airborne diseases, cleaning and other chemicals, miscellaneous odors, and off-gassing of building materials and furniture; and keeps the building positively pressurized to minimize infiltration. Compliance with ASHRAE Standards 62.1 and 62.2 is crucial to ensuring that ventilation methods meet the necessary requirements for IAQ and energy efficiency while aligning ventilation with occupancy patterns. Beyond the ventilation requirements of Standards 62.1 and 62.2, ASHRAE introduced Standard 241, *Control of Infectious Aerosols*, to establish requirements for minimizing the risk of disease transmission. This standard introduced the concept of equivalent clean airflow (ECA) to determine the necessary amount of clean air needed to reduce the risk of long-range airborne transmission. ECA is a new and powerful concept in indoor air standards because it provides users flexibility to embrace approaches that are less energy intensive, such as layered strategies to improve IAQ through ventilation, filtration, air cleaning, and occupancy controls. For example, increasing outdoor air above the levels required for normal operation may be a poor solution because of the cost of conditioning more outdoor air or if outdoor air quality is poor where the building is located.
+
+[Figure: ASHRAE Standards 62.1, 62.2, and 241
+Type: Image
+
+Description:
+A sidebar callout showing the covers and descriptions of three ASHRAE standards related to ventilation and indoor air quality: ANSI/ASHRAE Standard 62.1-2022, ANSI/ASHRAE Standard 62.2-2022, and ASHRAE Standard 241-2023.
+
+Key Elements:
+- Standard 1 → ANSI/ASHRAE Standard 62.1-2022, *Ventilation and Acceptable Indoor Air Quality* — the recognized standard for ventilation system design and acceptable indoor air quality (IAQ); expanded and revised for 2022; specifies minimum ventilation rates and other measures to minimize adverse health effects for occupants (ASHRAE 2022c)
+- Standard 2 → ANSI/ASHRAE Standard 62.2-2022, *Ventilation and Acceptable Indoor Air Quality in Residential Buildings* — companion standard for residential buildings; expanded and revised for 2022 (ASHRAE 2022d)
+- Standard 3 → ASHRAE Standard 241-2023, *Control of Infectious Aerosols* — establishes minimum requirements aimed at reducing the risk of disease transmission through exposure to infectious aerosols in new buildings, existing buildings, and major renovations; approved June 24, 2023 (ASHRAE 2023f).]
+
+Ventilation strategies to reduce HVAC heating and cooling loads and meet occupant ventilation requirements include:
+
+#### Demand-Controlled Ventilation (DCV)
+
+Demand-controlled ventilation (DCV) facilitates the adjustment of outdoor airflow when the number of occupants falls below the design occupancy level. This adjustment is made possible through real-time monitoring of occupancy, often utilizing CO2 sensors. It is important to note that, while DCV optimizes ventilation and leads to decreased energy consumption, it does not diminish the design load. DCV proves most beneficial in densely populated areas and in large spaces with sporadic occupancy, such as conference rooms and auditoriums.
+
+#### Performance-Based Ventilation Design
+
+Standard 62.1 includes two methods for calculating minimum outdoor air to maintain acceptable indoor air quality: the Ventilation Rate Procedure (VRP) and the Indoor Air Quality Procedure (IAQP). When decarbonization is the goal, there are many advantages to using the IAQP instead of the VRP. This is because the IAQP allows designers to replace a portion of the outdoor air requirement under the VRP with cleaned, recirculated indoor air without compromising indoor air quality. This approach is usually more energy efficient than a dilution-only strategy using the VRP due to less conditioning of hot and cold outdoor air, which also may be polluted. Additional benefits of using the IAQP include reducing HVAC design loads, which allows for equipment downsizing and associated cost reductions for new HVAC equipment, including heat pumps and associated electrical infrastructure, and for improved building resilience to polluted outdoor air, such as industrial pollution and wildfires. In 2022 and 2023, ASHRAE made a number of updates to the IAQP to make it more prescriptive and therefore easier and less risky to apply. These updates include the publication of Standard 62.1 Calculators, an IAQP calculator that can be downloaded from ASHRAE's website (ASHRAE 2024).
+
+#### Variable Mechanical Ventilation
+
+Standard 62.2 allows for variable mechanical ventilation rates based on various methods of ensuring that the average ventilation rate over a given period of time meets the standard. This strategy allows the ventilation system to potentially be used as a load that can be shifted. For example, a system could control to reduce the ventilation rate during peak GHG emissions periods and increase ventilation rates at low GHG emissions periods.
+
+### 5.2.3.5 Controls Retrofit and Optimized Sequences of Operation
+
+Many older buildings have pneumatic controls or older direct digital controls (DDC) with limited capabilities. A decarbonization retrofit is a good time to consider a controls upgrade, including optimized sequences of operation. More details about sequences of operation are provided in Section 1.2 in Chapter 6. Both upgrading the controls and adjusting operation sequences can reduce peak load and building energy use. A California Energy Commission-funded study indicated dramatic heating savings through controls retrofits (CEC 2022).
+
+**CASE STUDY: East Palo Alto Government Center, California**
+
+The case study for the East Palo Alto Government Center in California performed electrical demand reduction measures, including a pneumatic to DDC retrofit together with ASHRAE Guideline 36 sequences. These measures, along with an LED and lighting controls retrofit, reduced electrical demand to accommodate the installation of AWHPs to replace the chiller/boiler plant.
